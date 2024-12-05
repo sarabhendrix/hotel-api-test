@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.rollingcapstones.developer.vacationplanner.VacationplannerApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.857 s -- in com.rollingcapstones.developer.vacationplanner.VacationplannerApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.312 s -- in com.rollingcapstones.developer.vacationplanner.VacationplannerApplicationTests

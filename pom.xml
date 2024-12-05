@@ -75,7 +75,7 @@
 		<dependency>
 			<groupId>com.github.serpapi</groupId>
 			<artifactId>google-search-results-java</artifactId>
-			<version>2.0.0</version>
+			<version>2.0.3</version>
 			<scope>system</scope>
 			<systemPath>${project.basedir}/lib/google-search-results-java-2.0.3.jar</systemPath>
 		</dependency>
