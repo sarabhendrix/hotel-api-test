@@ -1,0 +1,15 @@
+.layout{
+  /* background: linear-gradient(#0070AD, #f7f7f7); */
+}
+
+.image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image img {
+  width: 500px;
+  height: auto;
+  object-fit: cover;
+}

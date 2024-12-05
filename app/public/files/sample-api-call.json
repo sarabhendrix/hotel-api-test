@@ -1,0 +1,3889 @@
+{
+  "search_metadata": {
+    "id": "675054cffbde0da5184a1a9f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/474c54e00e9bd91b/675054cffbde0da5184a1a9f.json",
+    "created_at": "2024-12-04 13:10:39 UTC",
+    "processed_at": "2024-12-04 13:10:39 UTC",
+    "google_hotels_url": "https://www.google.com/_/TravelFrontendUi/data/batchexecute?rpcids=AtySUc&source-path=/travel/search&hl=en&gl=us&rt=c&soc-app=162&soc-platform=1&soc-device=1",
+    "raw_html_file": "https://serpapi.com/searches/474c54e00e9bd91b/675054cffbde0da5184a1a9f.html",
+    "prettify_html_file": "https://serpapi.com/searches/474c54e00e9bd91b/675054cffbde0da5184a1a9f.prettify",
+    "total_time_taken": 1.56
+  },
+  "search_parameters": {
+    "engine": "google_hotels",
+    "q": "Spring TX Hotels",
+    "gl": "us",
+    "hl": "en",
+    "currency": "USD",
+    "check_in_date": "2024-12-05",
+    "check_out_date": "2024-12-06",
+    "adults": 2,
+    "children": 0
+  },
+  "search_information": {
+    "total_results": 702
+  },
+  "brands": [
+    {
+      "id": 240,
+      "name": "Americas Best Value Inn"
+    },
+    {
+      "id": 18,
+      "name": "Best Western International",
+      "children": [
+        {
+          "id": 155,
+          "name": "Best Western"
+        },
+        {
+          "id": 104,
+          "name": "Best Western Plus"
+        },
+        {
+          "id": 108,
+          "name": "SureStay"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Choice Hotels",
+      "children": [
+        {
+          "id": 292,
+          "name": "Clarion Pointe"
+        },
+        {
+          "id": 152,
+          "name": "Comfort Suites"
+        },
+        {
+          "id": 48,
+          "name": "Econo Lodge"
+        },
+        {
+          "id": 82,
+          "name": "Quality Inn"
+        },
+        {
+          "id": 78,
+          "name": "Rodeway Inn"
+        },
+        {
+          "id": 23,
+          "name": "Sleep Inn"
+        },
+        {
+          "id": 6,
+          "name": "Suburban Extended Stay"
+        },
+        {
+          "id": 293,
+          "name": "Woodspring Suites"
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "name": "Extended Stay America"
+    },
+    {
+      "id": 28,
+      "name": "Hilton Honors",
+      "children": [
+        {
+          "id": 115,
+          "name": "Hampton by Hilton"
+        },
+        {
+          "id": 71,
+          "name": "Hilton Garden Inn"
+        },
+        {
+          "id": 77,
+          "name": "Homewood Suites by Hilton"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "IHG Hotels & Resorts",
+      "children": [
+        {
+          "id": 52,
+          "name": "Candlewood Suites"
+        },
+        {
+          "id": 64,
+          "name": "Holiday Inn"
+        },
+        {
+          "id": 56,
+          "name": "Holiday Inn Express"
+        },
+        {
+          "id": 87,
+          "name": "Hotel Indigo"
+        },
+        {
+          "id": 43,
+          "name": "Staybridge Suites"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Marriott Bonvoy",
+      "children": [
+        {
+          "id": 86,
+          "name": "Courtyard by Marriott"
+        },
+        {
+          "id": 58,
+          "name": "Fairfield Inn by Marriott"
+        },
+        {
+          "id": 61,
+          "name": "Marriott Hotels & Resorts"
+        },
+        {
+          "id": 75,
+          "name": "Residence Inn by Marriott"
+        },
+        {
+          "id": 83,
+          "name": "SpringHill Suites"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Motel 6"
+    },
+    {
+      "id": 353,
+      "name": "OYO",
+      "children": [
+        {
+          "id": 99,
+          "name": "OYO Rooms"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Radisson Hotel Group",
+      "children": [
+        {
+          "id": 25,
+          "name": "Country Inns & Suites"
+        }
+      ]
+    },
+    {
+      "id": 345,
+      "name": "Red Roof Inn",
+      "children": [
+        {
+          "id": 4,
+          "name": "Red Roof"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Wyndham Hotels & Resorts",
+      "children": [
+        {
+          "id": 30,
+          "name": "Baymont"
+        },
+        {
+          "id": 19,
+          "name": "Days Inn"
+        },
+        {
+          "id": 34,
+          "name": "Hawthorn Suites"
+        },
+        {
+          "id": 11,
+          "name": "La Quinta Inns & Suites"
+        },
+        {
+          "id": 50,
+          "name": "Ramada"
+        },
+        {
+          "id": 93,
+          "name": "Super 8 Motels"
+        },
+        {
+          "id": 68,
+          "name": "Wingate by Wyndham"
+        },
+        {
+          "id": 150,
+          "name": "Wyndham"
+        }
+      ]
+    }
+  ],
+  "properties": [
+    {
+      "type": "hotel",
+      "name": "Holiday Inn Express & Suites Spring - Woodlands Area, an IHG Hotel",
+      "description": "Unfussy rooms & suites in a casual hotel offering an outdoor pool, a gym & a patio with a fire pit.",
+      "link": "https://www.ihg.com/holidayinnexpress/hotels/us/en/spring/houis/hoteldetail?cm_mmc=GoogleMaps-_-EX-_-US-_-HOUIS",
+      "gps_coordinates": {
+        "latitude": 30.081801000000002,
+        "longitude": -95.443032
+      },
+      "check_in_time": "3:00 PM",
+      "check_out_time": "12:00 PM",
+      "rate_per_night": {
+        "lowest": "$91",
+        "extracted_lowest": 91,
+        "before_taxes_fees": "$79",
+        "extracted_before_taxes_fees": 79
+      },
+      "total_rate": {
+        "lowest": "$91",
+        "extracted_lowest": 91,
+        "before_taxes_fees": "$79",
+        "extracted_before_taxes_fees": 79
+      },
+      "deal": "27% less than usual",
+      "deal_description": "Great Deal",
+      "nearby_places": [
+        {
+          "name": "Hurricane Harbor Splashtown",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "7 min"
+            }
+          ]
+        },
+        {
+          "name": "William P. Hobby Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "47 min"
+            }
+          ]
+        },
+        {
+          "name": "Dog Haus Biergarten",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "8 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "3-star hotel",
+      "extracted_hotel_class": 3,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN6yN4H-G1TBIQ-0lyvS4TyWmV5AujJ8nkv-miU=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipN6yN4H-G1TBIQ-0lyvS4TyWmV5AujJ8nkv-miU=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPj76hSCHBoN5AcgWIVrO5jlJFneNcPL96ezLrn=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPj76hSCHBoN5AcgWIVrO5jlJFneNcPL96ezLrn=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNapq2lmvJ68UsoBKnIG7c3INUKlsbvQNczW2v2=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNapq2lmvJ68UsoBKnIG7c3INUKlsbvQNczW2v2=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOVsANzrUzUwI5OcsfqgouA94uaYiUB0ez9pE5K=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOVsANzrUzUwI5OcsfqgouA94uaYiUB0ez9pE5K=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPntrteOzYFP3Te3FqcanjY9LLE32vnUgUT-fo4=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPntrteOzYFP3Te3FqcanjY9LLE32vnUgUT-fo4=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOvbwUAJdJFXVBDC2jV8EjOolAhlVfiR8rVwd35=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOvbwUAJdJFXVBDC2jV8EjOolAhlVfiR8rVwd35=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNrpzKOdrMHO36udfNv1zDFIpLHutL2bP-LUmvE=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNrpzKOdrMHO36udfNv1zDFIpLHutL2bP-LUmvE=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOaYAWbBmBtUFS42mQK2PxldwXOL6uJAxgg__Da=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOaYAWbBmBtUFS42mQK2PxldwXOL6uJAxgg__Da=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP2Gp9oSoK6CxWoRFzu8eMNtnsZ3nmTO1AgF2-O=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP2Gp9oSoK6CxWoRFzu8eMNtnsZ3nmTO1AgF2-O=s10000"
+        }
+      ],
+      "overall_rating": 4.3,
+      "reviews": 287,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 198
+        },
+        {
+          "stars": 4,
+          "count": 39
+        },
+        {
+          "stars": 3,
+          "count": 13
+        },
+        {
+          "stars": 2,
+          "count": 7
+        },
+        {
+          "stars": 1,
+          "count": 30
+        }
+      ],
+      "location_rating": 3.4,
+      "reviews_breakdown": [
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 70,
+          "positive": 53,
+          "negative": 15,
+          "neutral": 2
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 71,
+          "positive": 54,
+          "negative": 11,
+          "neutral": 6
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 36,
+          "positive": 29,
+          "negative": 4,
+          "neutral": 3
+        },
+        {
+          "name": "Parking",
+          "description": "Parking",
+          "total_mentioned": 10,
+          "positive": 4,
+          "negative": 6,
+          "neutral": 0
+        },
+        {
+          "name": "Safety",
+          "description": "Safety",
+          "total_mentioned": 19,
+          "positive": 6,
+          "negative": 12,
+          "neutral": 1
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Air conditioning",
+        "Fitness centre",
+        "Accessible",
+        "Business centre",
+        "Child-friendly",
+        "Smoke-free property"
+      ],
+      "property_token": "ChoI38Tu7vnZpJrnARoNL2cvMTFmcXp3MmZmNBAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-12-05&check_out_date=2024-12-06&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChoI38Tu7vnZpJrnARoNL2cvMTFmcXp3MmZmNBAB&q=Spring+TX+Hotels"
+    },
+    {
+      "type": "hotel",
+      "name": "Best Western Plus Spring Inn & Suites",
+      "description": "Casual lodging in a straightforward hotel offering a free breakfast buffet, a gym & an outdoor pool.",
+      "link": "https://www.bestwestern.com/en_US/book/hotel-rooms.44711.html?iata=00171880&ssob=BLBWI0004G&cid=BLBWI0004G:google:gmb:44711",
+      "gps_coordinates": {
+        "latitude": 30.0683454,
+        "longitude": -95.43134719999999
+      },
+      "check_in_time": "3:00 PM",
+      "check_out_time": "11:00 AM",
+      "rate_per_night": {
+        "lowest": "$82",
+        "extracted_lowest": 82,
+        "before_taxes_fees": "$69",
+        "extracted_before_taxes_fees": 69
+      },
+      "total_rate": {
+        "lowest": "$82",
+        "extracted_lowest": 82,
+        "before_taxes_fees": "$69",
+        "extracted_before_taxes_fees": 69
+      },
+      "nearby_places": [
+        {
+          "name": "Hurricane Harbor Splashtown",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "9 min"
+            }
+          ]
+        },
+        {
+          "name": "William P. Hobby Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "45 min"
+            }
+          ]
+        },
+        {
+          "name": "5.ATE Café",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "3 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "3-star hotel",
+      "extracted_hotel_class": 3,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMjWrQwmRzqV_I7egyalozkaW6xM3bcPl4YUd8j=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMjWrQwmRzqV_I7egyalozkaW6xM3bcPl4YUd8j=s10000"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/qsMw1IKBJB6upS3e9eCjCvBxFB7i6wefN97_XlYiEGFKV_t_yYWJ1-hp6CgVDhy1zIq3uKIDtD9jgnSd16EdTgOQwQcDYRYnXxA2VUsaAxHmcvaOdcFSsGQrYrUej9UI9OWyHJkftoHNZtXY-KbUr0Bppu4EIQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAHKEaAQFAOV4McPRR-erwvtFeuGbBF4"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM8F6YUj0eflcQQMnbPERFBWYz6zutm-BAO_Bjy=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipM8F6YUj0eflcQQMnbPERFBWYz6zutm-BAO_Bjy=s10000"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/5jrs_F4iygB6zjqOKERFYnS4_aG6O2trmD0Lu_0_o68bf44jMnPb95wFO5AJbYvlFuZHdDhKm_hwPUFDJse11suHml4ikD9658uk1TJsGj2ZbrBrg3sfzTTa7f7cgGDTdFCMgupFkAv5iMrO-wFvUChyryJMmek=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/a3/38/ba/best-western-plus-spring.jpg?w=2100&h=1400&s=1"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/FbaFATTLEpDnAo8GzKoiRGOpBWKrJfIRKp__Z43XpdwhiPCphJNVWovEwzphGFCp0HlEd7vUCEnQGP4rY5IRflP3BUSbF1ynV39utBB77_9suiZC18Uqitlom2i39Orn4crhrApxVXvwYkSyOgNeXkDbzEcKmQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/13000000/12510000/12501900/12501866/4f1134be_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/GQMc6jHucnaoiB4F-15fl_Kj70ba3pxYgUng23NZs5M5bGOru7BvGq1LFxPItgyTv209Tx0TbUDdW7gNeRsjwli6nI_xES2ui7FyGHO9LQxkS1Pd8-qQ2NygLSEj-AxjaAqJu0wTsAc6uCnQ4FLdwNzGq0wzQA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/44/442116/442116a_hb_k_001.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/KTGZ5mcjwBVpA0dz2ZJYTv23j1t9qMNwnrgPQrr1pn6XQwwEaKy3BnQGvnJ1CsqWF4cKW1VQ9II7NbJm7w3_QUsjAHVrhSbSpCuqVyoM3nWR6GBa_aqUGP9dXPLUDXoyxglpYv8ql4MAJ0Og_5Zb3EUimYWBsxA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/44/442116/442116a_hb_k_004.jpg"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/qPRnsIKwMrS1Ui7-Me6jkMGQP814Q90XGW0fLkwxOu1RCJdrMdTjRqLNt-CxbzfMg8Sfe94KJKDCw4JvYnUL_RPA4h5Ng_qNmVznvzaZA7f4irZJhef5zJ7IBHHxsyg1i73Ts2nGcbR9dwKVH5i0WhvTLV1bXg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/44/442116/442116a_hb_a_010.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP6SCyAOp15HFCmprxNhnTDIctypBsL69iWiYF4=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP6SCyAOp15HFCmprxNhnTDIctypBsL69iWiYF4=s10000"
+        }
+      ],
+      "overall_rating": 3.8,
+      "reviews": 599,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 303
+        },
+        {
+          "stars": 4,
+          "count": 118
+        },
+        {
+          "stars": 3,
+          "count": 46
+        },
+        {
+          "stars": 2,
+          "count": 39
+        },
+        {
+          "stars": 1,
+          "count": 93
+        }
+      ],
+      "location_rating": 4,
+      "reviews_breakdown": [
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 68,
+          "positive": 42,
+          "negative": 19,
+          "neutral": 7
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 184,
+          "positive": 101,
+          "negative": 78,
+          "neutral": 5
+        },
+        {
+          "name": "Restaurant",
+          "description": "Restaurant",
+          "total_mentioned": 31,
+          "positive": 21,
+          "negative": 7,
+          "neutral": 3
+        },
+        {
+          "name": "Business",
+          "description": "Business",
+          "total_mentioned": 20,
+          "positive": 6,
+          "negative": 14,
+          "neutral": 0
+        },
+        {
+          "name": "Location",
+          "description": "Location",
+          "total_mentioned": 47,
+          "positive": 35,
+          "negative": 12,
+          "neutral": 0
+        },
+        {
+          "name": "Bathroom",
+          "description": "Bathroom and toiletries",
+          "total_mentioned": 45,
+          "positive": 7,
+          "negative": 36,
+          "neutral": 2
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Air conditioning",
+        "Fitness centre",
+        "Restaurant",
+        "Kitchen in some rooms",
+        "Accessible",
+        "Business centre",
+        "Child-friendly",
+        "Smoke-free property"
+      ],
+      "property_token": "ChkIoeOa8tCUmPoEGg0vZy8xMWJ4ZHdteTl2EAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-12-05&check_out_date=2024-12-06&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkIoeOa8tCUmPoEGg0vZy8xMWJ4ZHdteTl2EAE&q=Spring+TX+Hotels"
+    },
+    {
+      "type": "hotel",
+      "name": "Comfort Inn & Suites FM1960-Champions",
+      "description": "Modern lodging with a seasonal pool & an exercise room, plus free WiFi, parking & hot breakfast. ",
+      "link": "https://www.choicehotels.com/texas/houston/comfort-inn-hotels/txe54?mc=llgoxxpx",
+      "gps_coordinates": {
+        "latitude": 29.9946151,
+        "longitude": -95.4832737
+      },
+      "check_in_time": "3:00 PM",
+      "check_out_time": "12:00 PM",
+      "rate_per_night": {
+        "lowest": "$69",
+        "extracted_lowest": 69,
+        "before_taxes_fees": "$59",
+        "extracted_before_taxes_fees": 59
+      },
+      "total_rate": {
+        "lowest": "$69",
+        "extracted_lowest": 69,
+        "before_taxes_fees": "$59",
+        "extracted_before_taxes_fees": 59
+      },
+      "nearby_places": [
+        {
+          "name": "Pearl Fincher Museum of Fine Arts",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "9 min"
+            }
+          ]
+        },
+        {
+          "name": "William P. Hobby Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "49 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "2 hr 39 min"
+            }
+          ]
+        },
+        {
+          "name": "Loz Lokoz Takoz (Food Truck)",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "3 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "4-star hotel",
+      "extracted_hotel_class": 4,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOPUNBhOtcpsrV50UKqD2XmOjix8XvUmMVVBGrd=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOPUNBhOtcpsrV50UKqD2XmOjix8XvUmMVVBGrd=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOTDVlvu8p0dgEl9kJymdx6LorH7c5SFETrfA4x=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOTDVlvu8p0dgEl9kJymdx6LorH7c5SFETrfA4x=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOrHDGrPdrWHZ5AeN211F6IkZ_AWHdX2cxWWNMb=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOrHDGrPdrWHZ5AeN211F6IkZ_AWHdX2cxWWNMb=s10000"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/nXgLDVldQfHnv9TfqH5yOhWzFNTSsM3h2_nOHK4L-TSgIMsfMmO1J3lWJSM8V9Wr1R3LDBK5bDEXu2v5rdaUWpHkMAzAlcWCF2bvSax8AW5N6ub1WSDeWtWh-5xcXeBUahJ9xqy_95Th2eOEWVzgBba_S16QSA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/14/144280/144280a_hb_a_081.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP8jZD23BTW-1zIrjn7cv_I-gUhNh7NE8em2q_1=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP8jZD23BTW-1zIrjn7cv_I-gUhNh7NE8em2q_1=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNcgGSG8ZxhUuVUdTWQ6OmQZ2D5OEHbQgDojsJt=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNcgGSG8ZxhUuVUdTWQ6OmQZ2D5OEHbQgDojsJt=s10000"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/l5phoU3pO3n4Zh-oRt29HWmESy5lNiUYuLPOhhaCmzgTeysQuvFvZyHxlGdohn2cfWOHu2EYLxGNXYKq-AW0RdJpyPmMxA4Dbrt388JWU16WMfZ_KkYGZPCMgWe6Eo6hT-9iq492Ym6GZD0SpyKiv96WrX0ljV0=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://cdn.worldota.net/t/1024x768/content/5a/67/5a67b3fa2eb1936ccccc8b3361e94cf5afb4eb1a.jpeg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNFaFJo2wkDgdb5rNHKCHYfAxL4j3TaSScJjbhw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNFaFJo2wkDgdb5rNHKCHYfAxL4j3TaSScJjbhw=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPM7mx4v01eYorxrwAov3RQBT2T_mulk2R_9y4I=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPM7mx4v01eYorxrwAov3RQBT2T_mulk2R_9y4I=s10000"
+        }
+      ],
+      "overall_rating": 4,
+      "reviews": 587,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 307
+        },
+        {
+          "stars": 4,
+          "count": 134
+        },
+        {
+          "stars": 3,
+          "count": 54
+        },
+        {
+          "stars": 2,
+          "count": 28
+        },
+        {
+          "stars": 1,
+          "count": 64
+        }
+      ],
+      "location_rating": 3.7,
+      "reviews_breakdown": [
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 175,
+          "positive": 130,
+          "negative": 41,
+          "neutral": 4
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 173,
+          "positive": 119,
+          "negative": 37,
+          "neutral": 17
+        },
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 166,
+          "positive": 116,
+          "negative": 35,
+          "neutral": 15
+        },
+        {
+          "name": "TV",
+          "description": "Room entertainment",
+          "total_mentioned": 10,
+          "positive": 3,
+          "negative": 7,
+          "neutral": 0
+        },
+        {
+          "name": "Accessibility",
+          "description": "Accessibility",
+          "total_mentioned": 11,
+          "positive": 2,
+          "negative": 8,
+          "neutral": 1
+        },
+        {
+          "name": "Air Conditioning",
+          "description": "Air conditioning",
+          "total_mentioned": 13,
+          "positive": 2,
+          "negative": 9,
+          "neutral": 2
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Pools",
+        "Hot tub",
+        "Air conditioning",
+        "Fitness centre",
+        "Full-service laundry",
+        "Accessible",
+        "Business centre",
+        "Child-friendly",
+        "Smoke-free property"
+      ],
+      "property_token": "ChgImIfwnKHCheL9ARoLL2cvMXRzM2ZfbTQQAQ",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-12-05&check_out_date=2024-12-06&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChgImIfwnKHCheL9ARoLL2cvMXRzM2ZfbTQQAQ&q=Spring+TX+Hotels"
+    },
+    {
+      "type": "hotel",
+      "name": "Hilton Garden Inn Houston Cypress Station",
+      "description": "Relaxed quarters in an understated hotel offering an outdoor pool, a bar & a casual restaurant.",
+      "link": "https://www.hilton.com/en/hotels/houcsgi-hilton-garden-inn-houston-cypress-station/?SEO_id=GMB-AMER-GI-HOUCSGI&y_source=1_MzI2NDY5OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "gps_coordinates": {
+        "latitude": 30.0234455,
+        "longitude": -95.43189439999999
+      },
+      "check_in_time": "3:00 PM",
+      "check_out_time": "12:00 PM",
+      "rate_per_night": {
+        "lowest": "$85",
+        "extracted_lowest": 85,
+        "before_taxes_fees": "$74",
+        "extracted_before_taxes_fees": 74
+      },
+      "total_rate": {
+        "lowest": "$85",
+        "extracted_lowest": 85,
+        "before_taxes_fees": "$74",
+        "extracted_before_taxes_fees": 74
+      },
+      "nearby_places": [
+        {
+          "name": "National Museum of Funeral History",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "8 min"
+            }
+          ]
+        },
+        {
+          "name": "FM 1960 Rd @ Westfield Place Dr",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "8 min"
+            }
+          ]
+        },
+        {
+          "name": "William P. Hobby Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "43 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 hr 47 min"
+            }
+          ]
+        },
+        {
+          "name": "Taquerias Arandas",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "4 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "3-star hotel",
+      "extracted_hotel_class": 3,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNseC5VPpagjejUiJtU9BlMyhwwwLxuuY53f_Qu=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNseC5VPpagjejUiJtU9BlMyhwwwLxuuY53f_Qu=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPxvSqJVcZ8GVEQyDc4KM1C96Xq7sapk_X9Yt9z=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPxvSqJVcZ8GVEQyDc4KM1C96Xq7sapk_X9Yt9z=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOzrHFviw_ldF19NSHJbzaRCXFBDlQX-qDeWHiY=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOzrHFviw_ldF19NSHJbzaRCXFBDlQX-qDeWHiY=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO212xOb3IzNPiphIsGuTvCn26WfDFNayCiae86=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO212xOb3IzNPiphIsGuTvCn26WfDFNayCiae86=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMYP85IKg69D7FW8AlnC0EKGtXu0R72kNFfSN70=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMYP85IKg69D7FW8AlnC0EKGtXu0R72kNFfSN70=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNrXqWBFImtFbP8G6BFZ_-9Kck02aK3AywfS8S7=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNrXqWBFImtFbP8G6BFZ_-9Kck02aK3AywfS8S7=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMGZ0KmPw3sr0CN2-J9Jl6TgpTpmtGJbC3kX2Hw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMGZ0KmPw3sr0CN2-J9Jl6TgpTpmtGJbC3kX2Hw=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMy_WLnLC3NAMK1NnUJ6HRTQiEpOtNG9pljSje1=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMy_WLnLC3NAMK1NnUJ6HRTQiEpOtNG9pljSje1=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMeW3rgj4Ad8p47dL-nNrZHICzaZ_wi0CxwT9rj=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMeW3rgj4Ad8p47dL-nNrZHICzaZ_wi0CxwT9rj=s10000"
+        }
+      ],
+      "overall_rating": 3.9,
+      "reviews": 641,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 323
+        },
+        {
+          "stars": 4,
+          "count": 119
+        },
+        {
+          "stars": 3,
+          "count": 71
+        },
+        {
+          "stars": 2,
+          "count": 38
+        },
+        {
+          "stars": 1,
+          "count": 90
+        }
+      ],
+      "location_rating": 3.9,
+      "reviews_breakdown": [
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 57,
+          "positive": 21,
+          "negative": 28,
+          "neutral": 8
+        },
+        {
+          "name": "Bar",
+          "description": "Bar or lounge",
+          "total_mentioned": 26,
+          "positive": 16,
+          "negative": 8,
+          "neutral": 2
+        },
+        {
+          "name": "Dining",
+          "description": "Food and Beverage",
+          "total_mentioned": 33,
+          "positive": 17,
+          "negative": 15,
+          "neutral": 1
+        },
+        {
+          "name": "Restaurant",
+          "description": "Restaurant",
+          "total_mentioned": 31,
+          "positive": 13,
+          "negative": 16,
+          "neutral": 2
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 180,
+          "positive": 112,
+          "negative": 62,
+          "neutral": 6
+        },
+        {
+          "name": "Location",
+          "description": "Location",
+          "total_mentioned": 50,
+          "positive": 30,
+          "negative": 13,
+          "neutral": 7
+        }
+      ],
+      "amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Air conditioning",
+        "Pet-friendly",
+        "Fitness centre",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Accessible",
+        "Business centre",
+        "Child-friendly",
+        "Smoke-free property"
+      ],
+      "eco_certified": true,
+      "property_token": "ChoImcmu9PCrg5j-ARoNL2cvMTFjamhraHFzMxAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-12-05&check_out_date=2024-12-06&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChoImcmu9PCrg5j-ARoNL2cvMTFjamhraHFzMxAB&q=Spring+TX+Hotels"
+    },
+    {
+      "type": "hotel",
+      "name": "Hilton Garden Inn North Houston Spring",
+      "description": "Refined rooms in a contemporary hotel featuring a laid-back restaurant/bar, an outdoor pool & a gym.",
+      "link": "https://www.hilton.com/en/hotels/housigi-hilton-garden-inn-north-houston-spring/?SEO_id=GMB-AMER-GI-HOUSIGI&y_source=1_NDQ2NjA1My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "gps_coordinates": {
+        "latitude": 30.105141000000003,
+        "longitude": -95.4297667
+      },
+      "check_in_time": "3:00 PM",
+      "check_out_time": "12:00 PM",
+      "rate_per_night": {
+        "lowest": "$147",
+        "extracted_lowest": 147,
+        "before_taxes_fees": "$128",
+        "extracted_before_taxes_fees": 128
+      },
+      "total_rate": {
+        "lowest": "$147",
+        "extracted_lowest": 147,
+        "before_taxes_fees": "$128",
+        "extracted_before_taxes_fees": 128
+      },
+      "nearby_places": [
+        {
+          "name": "Hurricane Harbor Splashtown",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "8 min"
+            }
+          ]
+        },
+        {
+          "name": "William P. Hobby Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "46 min"
+            }
+          ]
+        },
+        {
+          "name": "Island Grill",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "7 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "3-star hotel",
+      "extracted_hotel_class": 3,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOJyX8OjfM4171azlhq8hcRyZB6JtZuMoaK4XQM=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOJyX8OjfM4171azlhq8hcRyZB6JtZuMoaK4XQM=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNockA99hs09AGNuKRsu0b05zRECTryGIMMBV52=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNockA99hs09AGNuKRsu0b05zRECTryGIMMBV52=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOTP52_RkoZ2f2-LiO8FcHwYDu-mlzbS7WqGaRF=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOTP52_RkoZ2f2-LiO8FcHwYDu-mlzbS7WqGaRF=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOBtvJUXBH0xfkvlGNZ7HifjgdG7SnT83FOB-MJ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOBtvJUXBH0xfkvlGNZ7HifjgdG7SnT83FOB-MJ=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMFpRQXLVRkRZjy8NoDUbHyVmfCDnVLUOb13ad9=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMFpRQXLVRkRZjy8NoDUbHyVmfCDnVLUOb13ad9=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPzrzo9yuxdmD1NQ_WVfKutf1C_gStew-fnOAlW=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPzrzo9yuxdmD1NQ_WVfKutf1C_gStew-fnOAlW=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMzwhIJc9y_oegPa0Vjc8gzy182y3AG07aHeI1N=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMzwhIJc9y_oegPa0Vjc8gzy182y3AG07aHeI1N=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNWqzIvdPcu6Nbe83y9WbLiInwl4AsgVQ4Trvwl=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNWqzIvdPcu6Nbe83y9WbLiInwl4AsgVQ4Trvwl=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOwClTHk5R5kqz9Dv5lBPqm_pLMVAPf4Gg33C7H=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOwClTHk5R5kqz9Dv5lBPqm_pLMVAPf4Gg33C7H=s10000"
+        }
+      ],
+      "overall_rating": 4.7,
+      "reviews": 877,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 667
+        },
+        {
+          "stars": 4,
+          "count": 160
+        },
+        {
+          "stars": 3,
+          "count": 26
+        },
+        {
+          "stars": 2,
+          "count": 8
+        },
+        {
+          "stars": 1,
+          "count": 16
+        }
+      ],
+      "location_rating": 3.1,
+      "reviews_breakdown": [
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 179,
+          "positive": 168,
+          "negative": 7,
+          "neutral": 4
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 268,
+          "positive": 256,
+          "negative": 6,
+          "neutral": 6
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 241,
+          "positive": 220,
+          "negative": 12,
+          "neutral": 9
+        },
+        {
+          "name": "Dining",
+          "description": "Food and Beverage",
+          "total_mentioned": 68,
+          "positive": 59,
+          "negative": 4,
+          "neutral": 5
+        },
+        {
+          "name": "Bar",
+          "description": "Bar or lounge",
+          "total_mentioned": 53,
+          "positive": 47,
+          "negative": 2,
+          "neutral": 4
+        },
+        {
+          "name": "Restaurant",
+          "description": "Restaurant",
+          "total_mentioned": 40,
+          "positive": 31,
+          "negative": 8,
+          "neutral": 1
+        }
+      ],
+      "amenities": [
+        "Breakfast ($)",
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Hot tub",
+        "Air conditioning",
+        "Pet-friendly",
+        "Fitness centre",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Accessible",
+        "Business centre",
+        "Child-friendly",
+        "Smoke-free property"
+      ],
+      "eco_certified": true,
+      "property_token": "ChoI7f7isJWG78jZARoNL2cvMTFjbHk3MG1sahAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-12-05&check_out_date=2024-12-06&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChoI7f7isJWG78jZARoNL2cvMTFjbHk3MG1sahAB&q=Spring+TX+Hotels"
+    },
+    {
+      "type": "hotel",
+      "name": "Holiday Inn & Suites Spring - the Woodlands Area, an IHG Hotel",
+      "description": "Casual rooms & suites in a straightforward hotel featuring an outdoor pool & a gym.",
+      "link": "https://www.ihg.com/holidayinn/hotels/us/en/spring/wdltx/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-US-_-WDLTX",
+      "gps_coordinates": {
+        "latitude": 30.124325,
+        "longitude": -95.44135299999999
+      },
+      "check_in_time": "3:00 PM",
+      "check_out_time": "12:00 PM",
+      "rate_per_night": {
+        "lowest": "$98",
+        "extracted_lowest": 98,
+        "before_taxes_fees": "$88",
+        "extracted_before_taxes_fees": 88
+      },
+      "total_rate": {
+        "lowest": "$98",
+        "extracted_lowest": 98,
+        "before_taxes_fees": "$88",
+        "extracted_before_taxes_fees": 88
+      },
+      "nearby_places": [
+        {
+          "name": "Hurricane Harbor Splashtown",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "8 min"
+            }
+          ]
+        },
+        {
+          "name": "William P. Hobby Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "49 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 hr 53 min"
+            }
+          ]
+        },
+        {
+          "name": "Wisdom Bakery & Cafe",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "8 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "2-star hotel",
+      "extracted_hotel_class": 2,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP7CCaHnMa8BEQGrFYwwxAJNqwpfKwfqi1JENc7=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP7CCaHnMa8BEQGrFYwwxAJNqwpfKwfqi1JENc7=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN11uEua67JN-BLpjj23VUA0a65Mb-s9J33nBgR=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipN11uEua67JN-BLpjj23VUA0a65Mb-s9J33nBgR=s10000"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/oIsAdfaCQ7gY9xwL5vjEpJ8v9XIp2Yspa0apNHCpx0N1W6-sYgfRWfYFNxTmrWhG6C6_u9lgln1lDU_OqqPMtJZsxWu8VMBkj1RTFfo0rvLLGRNFMH_X5lf3dMkQTzzkOe8LDGrd5fUz0o4_5IBnvO6IrWcfiQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/http://media.staticontent.com/media/pictures/9c742c37-db9e-41a3-a781-48bb7916bc1e=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOI1WXJOpmEamO-gYw_10ftq0z_u7AuvGtpQ_V-=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOI1WXJOpmEamO-gYw_10ftq0z_u7AuvGtpQ_V-=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMx8VY2Ca1C1Z4aD3m7ejGhmURQJK7-O-xAKylt=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMx8VY2Ca1C1Z4aD3m7ejGhmURQJK7-O-xAKylt=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOzinWKOr7chRw5ohzqizEIX9PuIzlNqeWjvXRV=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOzinWKOr7chRw5ohzqizEIX9PuIzlNqeWjvXRV=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPmMlQlj4nucIkse4WYzbCL9VgZSAI1vy3gNZoe=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPmMlQlj4nucIkse4WYzbCL9VgZSAI1vy3gNZoe=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNYrDGtNkxeiQ36VTxYzk1_2u9KvAh40HB5KGZO=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNYrDGtNkxeiQ36VTxYzk1_2u9KvAh40HB5KGZO=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNSNSuEbb7lgejE0ckFgstsnQQzybg0sRjE9AfE=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNSNSuEbb7lgejE0ckFgstsnQQzybg0sRjE9AfE=s10000"
+        }
+      ],
+      "overall_rating": 4.1,
+      "reviews": 649,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 348
+        },
+        {
+          "stars": 4,
+          "count": 161
+        },
+        {
+          "stars": 3,
+          "count": 57
+        },
+        {
+          "stars": 2,
+          "count": 24
+        },
+        {
+          "stars": 1,
+          "count": 59
+        }
+      ],
+      "location_rating": 4,
+      "reviews_breakdown": [
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 153,
+          "positive": 123,
+          "negative": 22,
+          "neutral": 8
+        },
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 145,
+          "positive": 122,
+          "negative": 19,
+          "neutral": 4
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 167,
+          "positive": 120,
+          "negative": 39,
+          "neutral": 8
+        },
+        {
+          "name": "Safety",
+          "description": "Safety",
+          "total_mentioned": 10,
+          "positive": 2,
+          "negative": 7,
+          "neutral": 1
+        },
+        {
+          "name": "TV",
+          "description": "Room entertainment",
+          "total_mentioned": 12,
+          "positive": 3,
+          "negative": 9,
+          "neutral": 0
+        },
+        {
+          "name": "Room",
+          "description": "Room amenities",
+          "total_mentioned": 25,
+          "positive": 8,
+          "negative": 15,
+          "neutral": 2
+        }
+      ],
+      "amenities": [
+        "Free Wi-Fi",
+        "Free parking",
+        "Pool",
+        "Hot tub",
+        "Air conditioning",
+        "Fitness centre",
+        "Restaurant",
+        "Full-service laundry",
+        "Accessible",
+        "Business centre",
+        "Child-friendly",
+        "Smoke-free property"
+      ],
+      "property_token": "ChcI-rmu15zj9Px6GgsvZy8xdGZsYjE3NxAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-12-05&check_out_date=2024-12-06&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChcI-rmu15zj9Px6GgsvZy8xdGZsYjE3NxAB&q=Spring+TX+Hotels"
+    },
+    {
+      "type": "hotel",
+      "name": "La Quinta Inn & Suites by Wyndham Houston Spring South",
+      "description": "Low-key rooms in a straightforward hotel offering an outdoor pool, a hot tub & a fitness center.",
+      "link": "https://www.wyndhamhotels.com/laquinta/spring-texas/la-quinta-inn-and-suites-houston-spring-i-45/overview?CID=LC:6ysy27krtpcrqev:53868&iata=00093796",
+      "gps_coordinates": {
+        "latitude": 30.0723438,
+        "longitude": -95.4370651
+      },
+      "check_in_time": "3:00 PM",
+      "check_out_time": "12:00 PM",
+      "rate_per_night": {
+        "lowest": "$94",
+        "extracted_lowest": 94,
+        "before_taxes_fees": "$81",
+        "extracted_before_taxes_fees": 81
+      },
+      "total_rate": {
+        "lowest": "$94",
+        "extracted_lowest": 94,
+        "before_taxes_fees": "$81",
+        "extracted_before_taxes_fees": 81
+      },
+      "nearby_places": [
+        {
+          "name": "Hurricane Harbor Splashtown",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "8 min"
+            }
+          ]
+        },
+        {
+          "name": "William P. Hobby Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "45 min"
+            }
+          ]
+        },
+        {
+          "name": "La Patrona Cocina Latina",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "7 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "2-star hotel",
+      "extracted_hotel_class": 2,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP9mevodBPRK1-VDs95-45PDlmjqYOehG_cqneB=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP9mevodBPRK1-VDs95-45PDlmjqYOehG_cqneB=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPuIVsrl6sLQoDm4nwXdpM3Kygje9Y05eXKA_LG=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPuIVsrl6sLQoDm4nwXdpM3Kygje9Y05eXKA_LG=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP4xHvK0sNXXOW6N6it16_dCduESzOLsaoITtP-=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP4xHvK0sNXXOW6N6it16_dCduESzOLsaoITtP-=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMXhiligFB4A5jinFsjpI00fkWkyULuQktP4IdQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMXhiligFB4A5jinFsjpI00fkWkyULuQktP4IdQ=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNlPh0r0wGBlSxjH4r7rrwyXfBdbmbdZYK6Zs0=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNlPh0r0wGBlSxjH4r7rrwyXfBdbmbdZYK6Zs0=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMto7obqH9okYqrvGokl8BA4tjLWVEWXFJcU_3U=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMto7obqH9okYqrvGokl8BA4tjLWVEWXFJcU_3U=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOBR3Ph_Drw9jJLvFnRIAUI2OwKSHHC0zDDAxwj=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOBR3Ph_Drw9jJLvFnRIAUI2OwKSHHC0zDDAxwj=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNSsFum5w3CW-n2_xlBTApdduSTXcxZ_ggjSCQI=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNSsFum5w3CW-n2_xlBTApdduSTXcxZ_ggjSCQI=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMMAh1zBQ2KN8qfSezZEXlvQmPuynGrsFpOe3vr=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMMAh1zBQ2KN8qfSezZEXlvQmPuynGrsFpOe3vr=s10000"
+        }
+      ],
+      "overall_rating": 3.8,
+      "reviews": 513,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 251
+        },
+        {
+          "stars": 4,
+          "count": 104
+        },
+        {
+          "stars": 3,
+          "count": 34
+        },
+        {
+          "stars": 2,
+          "count": 29
+        },
+        {
+          "stars": 1,
+          "count": 95
+        }
+      ],
+      "location_rating": 4,
+      "reviews_breakdown": [
+        {
+          "name": "Location",
+          "description": "Location",
+          "total_mentioned": 42,
+          "positive": 32,
+          "negative": 8,
+          "neutral": 2
+        },
+        {
+          "name": "Atmosphere",
+          "description": "Atmosphere",
+          "total_mentioned": 18,
+          "positive": 14,
+          "negative": 2,
+          "neutral": 2
+        },
+        {
+          "name": "Restaurant",
+          "description": "Restaurant",
+          "total_mentioned": 29,
+          "positive": 18,
+          "negative": 8,
+          "neutral": 3
+        },
+        {
+          "name": "Parking",
+          "description": "Parking",
+          "total_mentioned": 11,
+          "positive": 2,
+          "negative": 8,
+          "neutral": 1
+        },
+        {
+          "name": "Air Conditioning",
+          "description": "Air conditioning",
+          "total_mentioned": 10,
+          "positive": 2,
+          "negative": 8,
+          "neutral": 0
+        },
+        {
+          "name": "Kitchen",
+          "description": "Kitchen",
+          "total_mentioned": 19,
+          "positive": 3,
+          "negative": 15,
+          "neutral": 1
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Air conditioning",
+        "Pet-friendly",
+        "Fitness centre",
+        "Restaurant",
+        "Accessible",
+        "Business centre",
+        "Child-friendly",
+        "Smoke-free property"
+      ],
+      "property_token": "ChkIjdC-n43m-KBNGg0vZy8xMWgwbWM2aGd3EAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-12-05&check_out_date=2024-12-06&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkIjdC-n43m-KBNGg0vZy8xMWgwbWM2aGd3EAE&q=Spring+TX+Hotels"
+    },
+    {
+      "type": "hotel",
+      "name": "Best Western Houston Bush IAH Intercontinental Airport Inn",
+      "description": "Unpretentious airport hotel offering a fitness center & a coin-operated laundry, plus breakfast.",
+      "link": "https://www.bestwestern.com/en_US/book/hotel-rooms.44782.html?iata=00171880&ssob=BLBWI0004G&cid=BLBWI0004G:google:gmb:44782",
+      "gps_coordinates": {
+        "latitude": 29.9818163,
+        "longitude": -95.280902
+      },
+      "check_in_time": "3:00 PM",
+      "check_out_time": "11:00 AM",
+      "rate_per_night": {
+        "lowest": "$76",
+        "extracted_lowest": 76,
+        "before_taxes_fees": "$64",
+        "extracted_before_taxes_fees": 64
+      },
+      "total_rate": {
+        "lowest": "$76",
+        "extracted_lowest": 76,
+        "before_taxes_fees": "$64",
+        "extracted_before_taxes_fees": 64
+      },
+      "deal": "19% less than usual",
+      "deal_description": "Deal",
+      "nearby_places": [
+        {
+          "name": "Houston Interactive Aquarium & Animal Preserve",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "8 min"
+            }
+          ]
+        },
+        {
+          "name": "William P. Hobby Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "37 min"
+            }
+          ]
+        },
+        {
+          "name": "Waffle House",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "1 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "3-star hotel",
+      "extracted_hotel_class": 3,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMTi3UaIlf1I5eqL25JBMF-uMwCjIaUS3esX1DR=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMTi3UaIlf1I5eqL25JBMF-uMwCjIaUS3esX1DR=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMX33YA-Hxnjlgd7hTStaqKvCjuWKugbYE1IOHC=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMX33YA-Hxnjlgd7hTStaqKvCjuWKugbYE1IOHC=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNJ-63GvNfBEmsdSZkQmRBRwvpphocAZkRyF7iV=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNJ-63GvNfBEmsdSZkQmRBRwvpphocAZkRyF7iV=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPfrnyGdFZ4kvjMXpgbtAc6xuUeOkorUIhg_YRD=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPfrnyGdFZ4kvjMXpgbtAc6xuUeOkorUIhg_YRD=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMx6QVeU06dGsnF9OYUKwNg5VP_dMF5cBHZu7TM=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMx6QVeU06dGsnF9OYUKwNg5VP_dMF5cBHZu7TM=s10000"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/X5IvcD2YwOvVqj84q-Eu2yfk0JdapDMj-pb9wNWkppCPFpZg_znbK4URFD_A4yAfVR8xjlCPGdQleGVl9bOsFUzEVraH1UI0D_-LSY9ocIQw8deK-w5oOCVHfMFpyQaq9tE3gx2gK2sApCq5Bz7YTcNS59Up3Us=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAE7hqQYFABmWawgdTGVHJEEpUF6foC4"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/gdM4gvwsIxLa2uG-J_LQm26lk4TnCcYIhkwU1xzyLInh-LatFOQccyjs3a2egeh3m9477TTgeOz2I5NxGeX7cYVjh0CG29scV1EOHzmO3QxpnEv-2NrUjX2F0XfeWvMxlrRB51r3Tiu4JwNu7uEXTjrBhbn0iuM=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAIi0EwUFAPFNFcQFLDfBoEA-Kx4kniQ"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNrRe9fB0TQf4C9sqAAS6bcfUwBncO7sE84WyPg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNrRe9fB0TQf4C9sqAAS6bcfUwBncO7sE84WyPg=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNqsKj72yjx4h0N82ddjl7jqy71iPfBVAEs_7V6=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNqsKj72yjx4h0N82ddjl7jqy71iPfBVAEs_7V6=s10000"
+        }
+      ],
+      "overall_rating": 4.1,
+      "reviews": 400,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 248
+        },
+        {
+          "stars": 4,
+          "count": 61
+        },
+        {
+          "stars": 3,
+          "count": 32
+        },
+        {
+          "stars": 2,
+          "count": 12
+        },
+        {
+          "stars": 1,
+          "count": 47
+        }
+      ],
+      "location_rating": 3.6,
+      "reviews_breakdown": [
+        {
+          "name": "Transit",
+          "description": "Public transit",
+          "total_mentioned": 49,
+          "positive": 34,
+          "negative": 10,
+          "neutral": 5
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 56,
+          "positive": 33,
+          "negative": 13,
+          "neutral": 10
+        },
+        {
+          "name": "Location",
+          "description": "Location",
+          "total_mentioned": 56,
+          "positive": 43,
+          "negative": 7,
+          "neutral": 6
+        },
+        {
+          "name": "Restaurant",
+          "description": "Restaurant",
+          "total_mentioned": 29,
+          "positive": 21,
+          "negative": 5,
+          "neutral": 3
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 149,
+          "positive": 106,
+          "negative": 36,
+          "neutral": 7
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 120,
+          "positive": 85,
+          "negative": 31,
+          "neutral": 4
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Air conditioning",
+        "Fitness centre",
+        "Airport shuttle",
+        "Golf",
+        "Accessible",
+        "Business centre",
+        "Child-friendly",
+        "Smoke-free property"
+      ],
+      "property_token": "ChkIgZeC0bfklY5QGg0vZy8xMWxmZ3Ffc3h6EAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-12-05&check_out_date=2024-12-06&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkIgZeC0bfklY5QGg0vZy8xMWxmZ3Ffc3h6EAE&q=Spring+TX+Hotels"
+    },
+    {
+      "type": "hotel",
+      "name": "Hampton Inn & Suites Houston-Cypress Station",
+      "description": "Contemporary lodgings with free Wi-Fi, parking & breakfast, plus an indoor pool & a fitness center.",
+      "link": "https://www.hilton.com/en/hotels/houcyhx-hampton-suites-houston-cypress-station/?SEO_id=GMB-AMER-HX-HOUCYHX&y_source=1_MjA4MjQzNS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "gps_coordinates": {
+        "latitude": 30.023601,
+        "longitude": -95.4311673
+      },
+      "check_in_time": "3:00 PM",
+      "check_out_time": "11:00 AM",
+      "rate_per_night": {
+        "lowest": "$92",
+        "extracted_lowest": 92,
+        "before_taxes_fees": "$80",
+        "extracted_before_taxes_fees": 80
+      },
+      "total_rate": {
+        "lowest": "$92",
+        "extracted_lowest": 92,
+        "before_taxes_fees": "$80",
+        "extracted_before_taxes_fees": 80
+      },
+      "nearby_places": [
+        {
+          "name": "National Museum of Funeral History",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "7 min"
+            }
+          ]
+        },
+        {
+          "name": "FM 1960 Rd @ Westfield Place Dr",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "7 min"
+            }
+          ]
+        },
+        {
+          "name": "William P. Hobby Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "43 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 hr 46 min"
+            }
+          ]
+        },
+        {
+          "name": "Taquerias Arandas",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "3 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "3-star hotel",
+      "extracted_hotel_class": 3,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNkmNSYT2jLeFAzuYT3Nn0fOViWj63VQNxfC_EB=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNkmNSYT2jLeFAzuYT3Nn0fOViWj63VQNxfC_EB=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipObUPQsQ5KcVkT_p_aMoosnUXBVfw6tp4PiAL4p=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipObUPQsQ5KcVkT_p_aMoosnUXBVfw6tp4PiAL4p=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP63mCghW-4aLQfv8vapZmzBvcwYZGim3ECsl4K=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP63mCghW-4aLQfv8vapZmzBvcwYZGim3ECsl4K=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNGaqVGX_9waJP8FAjLvi97_RwHjZpOfLXDccxx=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNGaqVGX_9waJP8FAjLvi97_RwHjZpOfLXDccxx=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMwZsVqrIujlVZOw0hwPXkt4YKc4H1e9F8agd1K=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMwZsVqrIujlVZOw0hwPXkt4YKc4H1e9F8agd1K=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNm02t_8_dHyPhM0lp86UOm2uSACnza4_y0ts4t=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNm02t_8_dHyPhM0lp86UOm2uSACnza4_y0ts4t=s10000"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/gtUPdU7egdgUruTXf0UZGYZIYS2v-9XIrEklYbdGIdKVANuCFE8Yi5bZF57U3yQZA82PXIaVEd6oVDx-82TB2EnBAtblQvwH6fFo2d9dJlcrqg58jH0d4SZYQ0CiKMM_H3KI_195gZjf3zpmQ1-uohe63eoAjls=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/13/130412/130412a_hb_f_007.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNtP4f-_nEBH7-vxHfGMhodDm6-nZHQttgHT9d1=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNtP4f-_nEBH7-vxHfGMhodDm6-nZHQttgHT9d1=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO0UMSQHoRB9I2svhaVhzf52ScVttAjXOduxe4g=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO0UMSQHoRB9I2svhaVhzf52ScVttAjXOduxe4g=s10000"
+        }
+      ],
+      "overall_rating": 3.5,
+      "reviews": 536,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 219
+        },
+        {
+          "stars": 4,
+          "count": 96
+        },
+        {
+          "stars": 3,
+          "count": 75
+        },
+        {
+          "stars": 2,
+          "count": 48
+        },
+        {
+          "stars": 1,
+          "count": 98
+        }
+      ],
+      "location_rating": 3.9,
+      "reviews_breakdown": [
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 75,
+          "positive": 44,
+          "negative": 26,
+          "neutral": 5
+        },
+        {
+          "name": "Fitness",
+          "description": "Fitness",
+          "total_mentioned": 44,
+          "positive": 18,
+          "negative": 21,
+          "neutral": 5
+        },
+        {
+          "name": "Hot Tub",
+          "description": "Hot tub",
+          "total_mentioned": 14,
+          "positive": 5,
+          "negative": 9,
+          "neutral": 0
+        },
+        {
+          "name": "Bathroom",
+          "description": "Bathroom and toiletries",
+          "total_mentioned": 73,
+          "positive": 10,
+          "negative": 62,
+          "neutral": 1
+        },
+        {
+          "name": "Restaurant",
+          "description": "Restaurant",
+          "total_mentioned": 35,
+          "positive": 23,
+          "negative": 11,
+          "neutral": 1
+        },
+        {
+          "name": "Accessibility",
+          "description": "Accessibility",
+          "total_mentioned": 26,
+          "positive": 1,
+          "negative": 24,
+          "neutral": 1
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Indoor pool",
+        "Hot tub",
+        "Air conditioning",
+        "Pet-friendly",
+        "Fitness centre",
+        "Kitchen in some rooms",
+        "Accessible",
+        "Business centre",
+        "Child-friendly",
+        "Smoke-free property"
+      ],
+      "eco_certified": true,
+      "property_token": "ChcIroTovdnTkLkpGgsvZy8xdGRwczExahAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-12-05&check_out_date=2024-12-06&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChcIroTovdnTkLkpGgsvZy8xdGRwczExahAB&q=Spring+TX+Hotels"
+    },
+    {
+      "type": "hotel",
+      "name": "Comfort Suites Old Town Spring",
+      "description": "All-suite lodgings with free hot breakfast & WiFi, in a modern hotel with an outdoor pool & hot tub.",
+      "link": "https://www.choicehotels.com/texas/spring/comfort-suites-hotels/txc50?mc=llgoxxpx",
+      "gps_coordinates": {
+        "latitude": 30.068842499999995,
+        "longitude": -95.430454
+      },
+      "check_in_time": "3:00 PM",
+      "check_out_time": "12:00 PM",
+      "rate_per_night": {
+        "lowest": "$96",
+        "extracted_lowest": 96,
+        "before_taxes_fees": "$81",
+        "extracted_before_taxes_fees": 81
+      },
+      "total_rate": {
+        "lowest": "$96",
+        "extracted_lowest": 96,
+        "before_taxes_fees": "$81",
+        "extracted_before_taxes_fees": 81
+      },
+      "nearby_places": [
+        {
+          "name": "National Museum of Funeral History",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "10 min"
+            }
+          ]
+        },
+        {
+          "name": "William P. Hobby Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "45 min"
+            }
+          ]
+        },
+        {
+          "name": "5.ATE Café",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "2 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "3-star hotel",
+      "extracted_hotel_class": 3,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOTuEtkcxKzWEBLnrKN2DY5Viv1QuXjf4nOhZpT=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOTuEtkcxKzWEBLnrKN2DY5Viv1QuXjf4nOhZpT=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMBAcJLR0_hVYAdsHmabckSHZR-JOLa_i6ItavZ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMBAcJLR0_hVYAdsHmabckSHZR-JOLa_i6ItavZ=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPnr0wVg_2_yszeo9UEEHK1aEUzURrCbdIP2XCw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPnr0wVg_2_yszeo9UEEHK1aEUzURrCbdIP2XCw=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipO2iXQSksBmjDB8f-0McDVxmK-4RZzi2X1qxfww=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipO2iXQSksBmjDB8f-0McDVxmK-4RZzi2X1qxfww=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipN7K1exqpJp6pyhDm5AGfm2Q4FHhPU3KFJmAybm=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipN7K1exqpJp6pyhDm5AGfm2Q4FHhPU3KFJmAybm=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMJkxMAdzjJPQ1gT0PoxnD2jfvnHdNo1Ojvy_-z=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMJkxMAdzjJPQ1gT0PoxnD2jfvnHdNo1Ojvy_-z=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNPoBWx74htUS1uD6Ux2m53zkDiOAPSW6J45wmX=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNPoBWx74htUS1uD6Ux2m53zkDiOAPSW6J45wmX=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMs1f4_gI8varpda1UDhsIPdbRi_di3yc3ieyfo=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMs1f4_gI8varpda1UDhsIPdbRi_di3yc3ieyfo=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/eOw214-xgBEv6uQxEoXhLt2FRxD61Ahx5sBXPxL1lncf0ubpsjI_e_gcwbkvQi1bJ8dSc5MJ45BdCauMQs4DRAIJBZEWE2DW_hBu4ci8KpgCrABMX9iUeEIsyTXJ-9EYd20nz4C37kVmAqUZTUOR_PyAZAMr6sE=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/22/225211/225211a_hb_a_054.jpg"
+        }
+      ],
+      "overall_rating": 4.1,
+      "reviews": 439,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 245
+        },
+        {
+          "stars": 4,
+          "count": 98
+        },
+        {
+          "stars": 3,
+          "count": 38
+        },
+        {
+          "stars": 2,
+          "count": 17
+        },
+        {
+          "stars": 1,
+          "count": 41
+        }
+      ],
+      "location_rating": 4,
+      "reviews_breakdown": [
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 41,
+          "positive": 25,
+          "negative": 12,
+          "neutral": 4
+        },
+        {
+          "name": "Restaurant",
+          "description": "Restaurant",
+          "total_mentioned": 23,
+          "positive": 17,
+          "negative": 2,
+          "neutral": 4
+        },
+        {
+          "name": "Room",
+          "description": "Room amenities",
+          "total_mentioned": 32,
+          "positive": 7,
+          "negative": 24,
+          "neutral": 1
+        },
+        {
+          "name": "Accessibility",
+          "description": "Accessibility",
+          "total_mentioned": 13,
+          "positive": 3,
+          "negative": 10,
+          "neutral": 0
+        },
+        {
+          "name": "Fitness",
+          "description": "Fitness",
+          "total_mentioned": 15,
+          "positive": 7,
+          "negative": 7,
+          "neutral": 1
+        },
+        {
+          "name": "Air Conditioning",
+          "description": "Air conditioning",
+          "total_mentioned": 14,
+          "positive": 2,
+          "negative": 11,
+          "neutral": 1
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Pools",
+        "Hot tub",
+        "Air conditioning",
+        "Fitness centre",
+        "Full-service laundry",
+        "Accessible",
+        "Business centre",
+        "Child-friendly",
+        "Smoke-free property"
+      ],
+      "property_token": "ChgI4YGF2uK906_JARoLL2cvMXRjenFycDIQAQ",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-12-05&check_out_date=2024-12-06&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChgI4YGF2uK906_JARoLL2cvMXRjenFycDIQAQ&q=Spring+TX+Hotels"
+    },
+    {
+      "type": "hotel",
+      "name": "Baymont by Wyndham Kingwood",
+      "description": "Informal hotel along US-59 offering breakfast, plus unassuming rooms with microwaves.",
+      "link": "https://www.wyndhamhotels.com/baymont/kingwood-texas/baymont-kingwood/overview?CID=LC:cfixxwa8fefdt79:54825&iata=00093796",
+      "gps_coordinates": {
+        "latitude": 30.043637399999998,
+        "longitude": -95.2551029
+      },
+      "check_in_time": "2:00 PM",
+      "check_out_time": "11:00 AM",
+      "rate_per_night": {
+        "lowest": "$59",
+        "extracted_lowest": 59,
+        "before_taxes_fees": "$54",
+        "extracted_before_taxes_fees": 54
+      },
+      "total_rate": {
+        "lowest": "$59",
+        "extracted_lowest": 59,
+        "before_taxes_fees": "$54",
+        "extracted_before_taxes_fees": 54
+      },
+      "nearby_places": [
+        {
+          "name": "Humble Museum",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "10 min"
+            }
+          ]
+        },
+        {
+          "name": "William P. Hobby Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "42 min"
+            }
+          ]
+        },
+        {
+          "name": "Fire Craft BBQ",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "8 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "3-star hotel",
+      "extracted_hotel_class": 3,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMjRLixpmdCdRjnv5mcv8-0edRU7W_WElaBYoPk=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMjRLixpmdCdRjnv5mcv8-0edRU7W_WElaBYoPk=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMA9nNk-UvgSxEXq91B0suwvNPToeMphV8ddEb3=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMA9nNk-UvgSxEXq91B0suwvNPToeMphV8ddEb3=s10000"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/q9-IrEtPfInkPekwI_Mro407eFJbKd4HZnqfGgtbwIIzlDeeMmViEafetRqIprfvEJ0FnqR14AU5M2KTei68PM-wSCwQyV4yiOabhEpZAyp9hxfj_AB8Ai9e5SuO3oe9edsUhKfdTYxLu5PYZix6hxnvi9MXY5w=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/29000000/28980000/28973000/28972978/cbbb1afb_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/xoG0sxrdvJmO3qQkF-CPFJGWAMA4BlL_fjvw2gCHUODWHE9QHNaupCGMP5TQGR-wjMVNnO_WhzyPP-0ZvBjlQ9IeY7_oQZsfG63cYEL1w5OmdulZcaxoZnMOJXLRvID-MLpaDaQW_6hXUXtBEPRtDUVqm6BicyY=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/74/743230/743230a_hb_w_007.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNw84I7a045sbQGJv3mdtP-MmGfiKHZp_qwvuW7=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNw84I7a045sbQGJv3mdtP-MmGfiKHZp_qwvuW7=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/ko4fO5ISqZRLRYcHc-DSq0cCqbwAKmH8mjnfy5UCzPWPRZJtomKO8Afcv6zsmX6UBb526pfRArcktlUhq6KiltYU4UySsnJhctTokx8xmWtBfBjHiVRN0QkOSuz9EgznVGMGmvFWvePi-BDHxYfWyJVcZlEPlQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://images.trvl-media.com/lodging/29000000/28980000/28973000/28972978/60c03624_z.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPJdqbU3c2DeI-k5pXeEKn5FOczc0IDiwMM0V6e=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPJdqbU3c2DeI-k5pXeEKn5FOczc0IDiwMM0V6e=s10000"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/hGm4dex6JtBC2u4WtM50Inr_4MC-w4ub6AarMa_ChEA6OMiPMAALLMg5dWNtHDDJLfQolvZkoBE67sowEJSa2X1G-ybGGwUWK7hZUvuZ9VC2A1KcAUCzF6k3NjKzMWVeO5-xwl8Mj1IopjbIY87KsQzbe4O4r8A=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/74/743230/743230a_hb_r_002.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/SGZIaYKjUo9MkiPH8wbx_Rk4g0KNsy96Dyf2NClJHjZ6cU4kSwFh7xjPwm_tPVaWlZuuO_gi1gxNzlTQPTGjq891Ci9pNslF8qrMNa_b1I3swLzn9NlDJHCLsok8iNGdrThH35z6wj_nvFBAMBqK7HU7VzMTuw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/74/743230/743230a_hb_r_001.jpg"
+        }
+      ],
+      "overall_rating": 3.8,
+      "reviews": 215,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 117
+        },
+        {
+          "stars": 4,
+          "count": 32
+        },
+        {
+          "stars": 3,
+          "count": 13
+        },
+        {
+          "stars": 2,
+          "count": 7
+        },
+        {
+          "stars": 1,
+          "count": 46
+        }
+      ],
+      "location_rating": 3.3,
+      "reviews_breakdown": [
+        {
+          "name": "Pets",
+          "description": "Pets",
+          "total_mentioned": 11,
+          "positive": 3,
+          "negative": 8,
+          "neutral": 0
+        },
+        {
+          "name": "Business",
+          "description": "Business",
+          "total_mentioned": 10,
+          "positive": 2,
+          "negative": 5,
+          "neutral": 3
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 13,
+          "positive": 5,
+          "negative": 5,
+          "neutral": 3
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 66,
+          "positive": 32,
+          "negative": 32,
+          "neutral": 2
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 77,
+          "positive": 59,
+          "negative": 13,
+          "neutral": 5
+        },
+        {
+          "name": "Sleep",
+          "description": "Sleep",
+          "total_mentioned": 27,
+          "positive": 16,
+          "negative": 8,
+          "neutral": 3
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Air conditioning",
+        "Smoke-free property"
+      ],
+      "property_token": "ChkIlMCL-OLa9qB6Gg0vZy8xMWZwNHMzbjZzEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-12-05&check_out_date=2024-12-06&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkIlMCL-OLa9qB6Gg0vZy8xMWZwNHMzbjZzEAE&q=Spring+TX+Hotels"
+    },
+    {
+      "type": "hotel",
+      "name": "La Quinta Inn & Suites by Wyndham The Woodlands/Spring",
+      "description": "Casual hotel with free breakfast, area transfers & Wi-Fi, plus an outdoor pool & a sports court.",
+      "link": "https://www.wyndhamhotels.com/laquinta/spring-texas/la-quinta-inn-and-suites-the-woodlands-spring/overview?CID=LC:6ysy27krtpcrqev:53425&iata=00093796",
+      "gps_coordinates": {
+        "latitude": 30.1239532,
+        "longitude": -95.440317
+      },
+      "check_in_time": "3:00 PM",
+      "check_out_time": "12:00 PM",
+      "rate_per_night": {
+        "lowest": "$87",
+        "extracted_lowest": 87,
+        "before_taxes_fees": "$76",
+        "extracted_before_taxes_fees": 76
+      },
+      "total_rate": {
+        "lowest": "$87",
+        "extracted_lowest": 87,
+        "before_taxes_fees": "$76",
+        "extracted_before_taxes_fees": 76
+      },
+      "nearby_places": [
+        {
+          "name": "Hurricane Harbor Splashtown",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "8 min"
+            }
+          ]
+        },
+        {
+          "name": "William P. Hobby Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "49 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 hr 55 min"
+            }
+          ]
+        },
+        {
+          "name": "Wisdom Bakery & Cafe",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "8 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "3-star hotel",
+      "extracted_hotel_class": 3,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMQ3djWcCSnKh-7eGNUmxshruP0xN-i-oW9nxCZ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMQ3djWcCSnKh-7eGNUmxshruP0xN-i-oW9nxCZ=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNit_noC-nxWaHiwLya9McUqwWJmEweAS1GUqmt=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNit_noC-nxWaHiwLya9McUqwWJmEweAS1GUqmt=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOSXax6q1DPcqovHcyCMXGahK07UWDzGpVdLkUC=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOSXax6q1DPcqovHcyCMXGahK07UWDzGpVdLkUC=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPX1c-dVMGqrOFldatuOZweCO5rEfEwvDyU3_uH=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPX1c-dVMGqrOFldatuOZweCO5rEfEwvDyU3_uH=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPLb5p2ot7Xtm3T-BZp7XfLx6_3oriPG2lgiTwP=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPLb5p2ot7Xtm3T-BZp7XfLx6_3oriPG2lgiTwP=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPz_V8Wvpi0jEvxB6qiWe21NDZQNfVLodd5PYUO=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPz_V8Wvpi0jEvxB6qiWe21NDZQNfVLodd5PYUO=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOeUL-xnBDpX7TSn9HvBoWDt2gHvECh7wxkwMPt=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOeUL-xnBDpX7TSn9HvBoWDt2gHvECh7wxkwMPt=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM4f_790X55UI3_jE0gXCtzomKiaiagoi0uul2s=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipM4f_790X55UI3_jE0gXCtzomKiaiagoi0uul2s=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOCnAUeNtj-CDnB-CSlgGsgrGUNtF-DR-ohZAbR=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOCnAUeNtj-CDnB-CSlgGsgrGUNtF-DR-ohZAbR=s10000"
+        }
+      ],
+      "overall_rating": 3.8,
+      "reviews": 624,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 290
+        },
+        {
+          "stars": 4,
+          "count": 130
+        },
+        {
+          "stars": 3,
+          "count": 69
+        },
+        {
+          "stars": 2,
+          "count": 41
+        },
+        {
+          "stars": 1,
+          "count": 94
+        }
+      ],
+      "location_rating": 3.9,
+      "reviews_breakdown": [
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 64,
+          "positive": 39,
+          "negative": 15,
+          "neutral": 10
+        },
+        {
+          "name": "Location",
+          "description": "Location",
+          "total_mentioned": 41,
+          "positive": 28,
+          "negative": 11,
+          "neutral": 2
+        },
+        {
+          "name": "Atmosphere",
+          "description": "Atmosphere",
+          "total_mentioned": 18,
+          "positive": 17,
+          "negative": 1,
+          "neutral": 0
+        },
+        {
+          "name": "Accessibility",
+          "description": "Accessibility",
+          "total_mentioned": 17,
+          "positive": 1,
+          "negative": 15,
+          "neutral": 1
+        },
+        {
+          "name": "Room",
+          "description": "Room amenities",
+          "total_mentioned": 46,
+          "positive": 12,
+          "negative": 29,
+          "neutral": 5
+        },
+        {
+          "name": "Sleep",
+          "description": "Sleep",
+          "total_mentioned": 82,
+          "positive": 29,
+          "negative": 48,
+          "neutral": 5
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Hot tub",
+        "Air conditioning",
+        "Pet-friendly",
+        "Fitness centre",
+        "Kitchen in some rooms",
+        "Accessible",
+        "Business centre",
+        "Child-friendly",
+        "Smoke-free property"
+      ],
+      "property_token": "ChgIwrrqgZn-0uiuARoLL2cvMXRnZ3R4eTIQAQ",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-12-05&check_out_date=2024-12-06&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChgIwrrqgZn-0uiuARoLL2cvMXRnZ3R4eTIQAQ&q=Spring+TX+Hotels"
+    },
+    {
+      "type": "hotel",
+      "name": "Days Inn & Suites by Wyndham Houston North/Spring",
+      "description": "Straightforward rooms with free continental breakfast & WiFi, in a hotel offering an outdoor pool.",
+      "link": "https://www.wyndhamhotels.com/days-inn/houston-texas/days-inn-and-suites-houston-north-spring/overview?CID=LC:iqv0j1dklijly45:10526&iata=00093796",
+      "gps_coordinates": {
+        "latitude": 30.0223658,
+        "longitude": -95.422465
+      },
+      "check_in_time": "2:00 PM",
+      "check_out_time": "11:00 AM",
+      "rate_per_night": {
+        "lowest": "$59",
+        "extracted_lowest": 59,
+        "before_taxes_fees": "$50",
+        "extracted_before_taxes_fees": 50
+      },
+      "total_rate": {
+        "lowest": "$59",
+        "extracted_lowest": 59,
+        "before_taxes_fees": "$50",
+        "extracted_before_taxes_fees": 50
+      },
+      "deal": "15% less than usual",
+      "deal_description": "Deal",
+      "nearby_places": [
+        {
+          "name": "National Museum of Funeral History",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "9 min"
+            }
+          ]
+        },
+        {
+          "name": "FM 1960 Rd @ North Fwy",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "8 min"
+            }
+          ]
+        },
+        {
+          "name": "William P. Hobby Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "42 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 hr 42 min"
+            }
+          ]
+        },
+        {
+          "name": "Waffle House",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "2 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "2-star hotel",
+      "extracted_hotel_class": 2,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMx7PlP7yd5AlFbLYTspLpZaae9hnuwigswoWed=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMx7PlP7yd5AlFbLYTspLpZaae9hnuwigswoWed=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP0z2SP4lVleNjVNoCOGoGapbuW1Mg4KRojUgSQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP0z2SP4lVleNjVNoCOGoGapbuW1Mg4KRojUgSQ=s10000"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/V2UiPf0JF4o9IrS5L8x_6g3tIFlF8Ty0XRrid6jDJPOJKs8xcS22YTJtoCDoi1AdERtYm-iJJFz3L9USo0dcXtqguUJa5BS9wpCQsrco9VyWrt70licid8OQI2vLekiFd5s4I5bj--YIPAQn5fNK5o78gZ7MFK0=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAAcrTQQFAOE6XwtA804JdPv1QCh72nE"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM4xusv2bV_eOIBO5PhzR785NnACwt5ZeWk2A_y=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipM4xusv2bV_eOIBO5PhzR785NnACwt5ZeWk2A_y=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/B5SIY3Qtg5HUhvdu0AS85bezDUu1LczfnMZA8eHWbSh-Ww4EX_v8LxVUNaXPx4ufF7bYckiLVDQYIkeagi7v9Mr6GxPBVD8zvEQ-upJQERj8ci1EpCldSv3eb1TCCgWnXqekPHwZRydENMiGEpdIOuG57AfkbTg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KACsrTQQFAMVyb82fgTxVlmxL5s01MbI"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMlSYTZZk2J8sWEleFOgvZgrW0rbBfDe3WxczY-=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMlSYTZZk2J8sWEleFOgvZgrW0rbBfDe3WxczY-=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMyWrOrRSuT-PeqBtoz5kO3nUcf9t9FL9peKVq6=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMyWrOrRSuT-PeqBtoz5kO3nUcf9t9FL9peKVq6=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOyOTS6BBJmSpdjAmfcYOYJQBBUd2f6CNFWDY9z=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOyOTS6BBJmSpdjAmfcYOYJQBBUd2f6CNFWDY9z=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMaNzjEQZLSO7ysU5qJAXZ9Rpm3qKwJ0HLrZRxX=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMaNzjEQZLSO7ysU5qJAXZ9Rpm3qKwJ0HLrZRxX=s10000"
+        }
+      ],
+      "overall_rating": 3.9,
+      "reviews": 371,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 197
+        },
+        {
+          "stars": 4,
+          "count": 58
+        },
+        {
+          "stars": 3,
+          "count": 53
+        },
+        {
+          "stars": 2,
+          "count": 11
+        },
+        {
+          "stars": 1,
+          "count": 52
+        }
+      ],
+      "location_rating": 3.7,
+      "reviews_breakdown": [
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 17,
+          "positive": 8,
+          "negative": 8,
+          "neutral": 1
+        },
+        {
+          "name": "Sleep",
+          "description": "Sleep",
+          "total_mentioned": 37,
+          "positive": 16,
+          "negative": 19,
+          "neutral": 2
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 85,
+          "positive": 73,
+          "negative": 11,
+          "neutral": 1
+        },
+        {
+          "name": "Fitness",
+          "description": "Fitness",
+          "total_mentioned": 9,
+          "positive": 1,
+          "negative": 7,
+          "neutral": 1
+        },
+        {
+          "name": "Room",
+          "description": "Room amenities",
+          "total_mentioned": 21,
+          "positive": 12,
+          "negative": 8,
+          "neutral": 1
+        },
+        {
+          "name": "Location",
+          "description": "Location",
+          "total_mentioned": 21,
+          "positive": 19,
+          "negative": 1,
+          "neutral": 1
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Air conditioning",
+        "Restaurant",
+        "Golf",
+        "Accessible",
+        "Child-friendly"
+      ],
+      "property_token": "ChkIhMO8uL3Zqu2uARoML2cvMWhjMHM5ZDUwEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-12-05&check_out_date=2024-12-06&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkIhMO8uL3Zqu2uARoML2cvMWhjMHM5ZDUwEAE&q=Spring+TX+Hotels"
+    },
+    {
+      "type": "hotel",
+      "name": "Hampton Inn & Suites North Houston Spring",
+      "description": "Relaxed hotel offering free breakfast & parking, plus an outdoor pool, a fitness room & a hot tub.",
+      "link": "https://www.hilton.com/en/hotels/housxhx-hampton-suites-north-houston-spring/?SEO_id=GMB-AMER-HX-HOUSXHX&y_source=1_Mjk1NDcwMi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "gps_coordinates": {
+        "latitude": 30.104390899999995,
+        "longitude": -95.43026189999999
+      },
+      "check_in_time": "3:00 PM",
+      "check_out_time": "12:00 PM",
+      "rate_per_night": {
+        "lowest": "$141",
+        "extracted_lowest": 141,
+        "before_taxes_fees": "$120",
+        "extracted_before_taxes_fees": 120
+      },
+      "total_rate": {
+        "lowest": "$141",
+        "extracted_lowest": 141,
+        "before_taxes_fees": "$120",
+        "extracted_before_taxes_fees": 120
+      },
+      "nearby_places": [
+        {
+          "name": "Hurricane Harbor Splashtown",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "9 min"
+            }
+          ]
+        },
+        {
+          "name": "William P. Hobby Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "46 min"
+            }
+          ]
+        },
+        {
+          "name": "Island Grill",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "7 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "2-star hotel",
+      "extracted_hotel_class": 2,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOX3m39AqSOa1tOB7DIvLNoaRtDgkr0t29f-rML=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOX3m39AqSOa1tOB7DIvLNoaRtDgkr0t29f-rML=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOb4QAjaxYFlA6mnbKPAIgwkQJs9l7_dwFIDkyf=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOb4QAjaxYFlA6mnbKPAIgwkQJs9l7_dwFIDkyf=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPLCvd4FVesnhwEoH2jgbrjue-t6_Kd4ghuZj8-=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPLCvd4FVesnhwEoH2jgbrjue-t6_Kd4ghuZj8-=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPT4Cmov7ohUI3M-m9QaCAvtkq7uwR6TqguVOmd=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPT4Cmov7ohUI3M-m9QaCAvtkq7uwR6TqguVOmd=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipONLtkUyccq4uJAxJjm61YSEp8JcDoPt4cnCGsW=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipONLtkUyccq4uJAxJjm61YSEp8JcDoPt4cnCGsW=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPoRWkkc9HLVEPzB0ZjIg6O6FOE7ktLiwKfhG-A=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPoRWkkc9HLVEPzB0ZjIg6O6FOE7ktLiwKfhG-A=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNBOENB3g9dRWwhbZG6s3tzgvLk7KQaUz3LhmIS=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNBOENB3g9dRWwhbZG6s3tzgvLk7KQaUz3LhmIS=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOxMOGYVqdro8AbW8hhxfKUxc8DxiabYohxunGE=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOxMOGYVqdro8AbW8hhxfKUxc8DxiabYohxunGE=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOk-jZhH0sEWTj91-7GanB8bWxyBCqdDKlBNy41=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOk-jZhH0sEWTj91-7GanB8bWxyBCqdDKlBNy41=s10000"
+        }
+      ],
+      "overall_rating": 4.7,
+      "reviews": 811,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 642
+        },
+        {
+          "stars": 4,
+          "count": 123
+        },
+        {
+          "stars": 3,
+          "count": 28
+        },
+        {
+          "stars": 2,
+          "count": 7
+        },
+        {
+          "stars": 1,
+          "count": 11
+        }
+      ],
+      "location_rating": 3.1,
+      "reviews_breakdown": [
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 212,
+          "positive": 205,
+          "negative": 7,
+          "neutral": 0
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 264,
+          "positive": 248,
+          "negative": 9,
+          "neutral": 7
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 250,
+          "positive": 237,
+          "negative": 8,
+          "neutral": 5
+        },
+        {
+          "name": "Restaurant",
+          "description": "Restaurant",
+          "total_mentioned": 62,
+          "positive": 52,
+          "negative": 3,
+          "neutral": 7
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 127,
+          "positive": 110,
+          "negative": 6,
+          "neutral": 11
+        },
+        {
+          "name": "Bathroom",
+          "description": "Bathroom and toiletries",
+          "total_mentioned": 45,
+          "positive": 34,
+          "negative": 8,
+          "neutral": 3
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Hot tub",
+        "Air conditioning",
+        "Pet-friendly",
+        "Fitness centre",
+        "Room service",
+        "Accessible",
+        "Business centre",
+        "Child-friendly",
+        "Smoke-free property"
+      ],
+      "eco_certified": true,
+      "property_token": "ChoI8dzSktiokO-bARoNL2cvMTFjamo0NTFsYhAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-12-05&check_out_date=2024-12-06&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChoI8dzSktiokO-bARoNL2cvMTFjamo0NTFsYhAB&q=Spring+TX+Hotels"
+    },
+    {
+      "type": "hotel",
+      "name": "Houston CityPlace Marriott at Springwoods Village",
+      "description": "Sleek quarters in a refined hotel featuring an outdoor pool & a 24/7 gym, plus a restaurant/bar.",
+      "link": "https://www.marriott.com/en-us/hotels/houns-houston-cityplace-marriott-at-springwoods-village/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+      "gps_coordinates": {
+        "latitude": 30.098376799999997,
+        "longitude": -95.44064209999999
+      },
+      "check_in_time": "3:00 PM",
+      "check_out_time": "11:00 AM",
+      "rate_per_night": {
+        "lowest": "$243",
+        "extracted_lowest": 243,
+        "before_taxes_fees": "$208",
+        "extracted_before_taxes_fees": 208
+      },
+      "total_rate": {
+        "lowest": "$243",
+        "extracted_lowest": 243,
+        "before_taxes_fees": "$208",
+        "extracted_before_taxes_fees": 208
+      },
+      "nearby_places": [
+        {
+          "name": "Hurricane Harbor Splashtown",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "8 min"
+            }
+          ]
+        },
+        {
+          "name": "William P. Hobby Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "49 min"
+            }
+          ]
+        },
+        {
+          "name": "SwitcHouse",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "1 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "4-star hotel",
+      "extracted_hotel_class": 4,
+      "images": [
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/DHEXXRDwIkO6pvg_IBO5_FHb-JlAx491bFAtMvIcgWN8xV7takdxEoq2X6Ncp9G5qOS9e2-ZOwQJPOihCp5npSYeV8D4xmKkkX_DOpY7Ter7WGcnUopfd1f5V6XikJNufFl4nAsK21b7zG7y7nmROWfQiS0UQA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/79/797614/797614a_hb_w_015.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP942nCagDbOEfL0DID1U0VeQUltd9GAWmjnrxZ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP942nCagDbOEfL0DID1U0VeQUltd9GAWmjnrxZ=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNSX9LY4d3D4sOT9c91XvbtMXxy0i-Zn_jo54Yq=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNSX9LY4d3D4sOT9c91XvbtMXxy0i-Zn_jo54Yq=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNxluMpF4EIaGQXgzlwsrmTXXeokTWPn40wek0T=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNxluMpF4EIaGQXgzlwsrmTXXeokTWPn40wek0T=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/Sz6YtyOvc3ATrrGBgMuZ2vbSlNCfe6tRiZEBdiLILaAoUW4iu4oG9t7mdWzrPYcAPtiFMmFbxUSl3tmPyJ1sKZsDXTF4-PO5MWT-QPri2Dln6gO4BgQr3CR5cNUrUc1vmvuLjDR6P3vGt5QBx0FeQKCVhRxBXSk=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://d2hyz2bfif3cr8.cloudfront.net/imageRepo/7/0/156/822/827/houns-exterior-7463-hor-clsc_O.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/0lA5Fp-rViU75bOTqmfD2QXAzMW8jDRuDhptH9KBcd6LlGHWbwwyJF-yOcVe13Fb12KWiX-h5EbR9a3Gbcj_F8pGEywWTsWk19T4feq2SFlt0IeV7K7IGtD9IYSmHTGuwtbOYSAc4kgFG03wjhAPFwQENFKelw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/79/797614/797614a_hb_w_009.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/SUfBn9ExE36z66xdPLQ-ng-ssZMt0vl4Zyv7ajaT3aDlo4e6pSljrmXkt75YKaiFfhN53Nk9oQz1LB3nNe8RfwlVa48pZQf1lWpkUXA5MtVZerODnR8ur54gwGRzYQ_Yq_zjU93QgxncIuwEDMs6_pnPmvVBD2s=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/79/797614/797614a_hb_r_018.jpg"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/xITXn4GHuc0Em7ZoiWoZzyvokJpogt7M3AtWko02b7LSwg-3H6spKXtlAYw_Lgj0TF2hs8pX4pmEhtrgTV9tnhU3Dx9BpPkvtxoG710skq3R__NaFxdFUxKQVQvgshi6hz-mlHNa-uh6pf2wiYnwosqhFOBUuA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/79/797614/797614a_hb_r_022.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMyfQDRZxaO6gNTsR7-dpVq3cmcvujMD0QN-TtJ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMyfQDRZxaO6gNTsR7-dpVq3cmcvujMD0QN-TtJ=s10000"
+        }
+      ],
+      "overall_rating": 4.6,
+      "reviews": 988,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 745
+        },
+        {
+          "stars": 4,
+          "count": 151
+        },
+        {
+          "stars": 3,
+          "count": 45
+        },
+        {
+          "stars": 2,
+          "count": 15
+        },
+        {
+          "stars": 1,
+          "count": 32
+        }
+      ],
+      "location_rating": 3.1,
+      "reviews_breakdown": [
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 290,
+          "positive": 259,
+          "negative": 18,
+          "neutral": 13
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 222,
+          "positive": 180,
+          "negative": 33,
+          "neutral": 9
+        },
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 138,
+          "positive": 119,
+          "negative": 18,
+          "neutral": 1
+        },
+        {
+          "name": "Wi-Fi",
+          "description": "Wi-Fi",
+          "total_mentioned": 15,
+          "positive": 2,
+          "negative": 8,
+          "neutral": 5
+        },
+        {
+          "name": "Kitchen",
+          "description": "Kitchen",
+          "total_mentioned": 15,
+          "positive": 3,
+          "negative": 10,
+          "neutral": 2
+        },
+        {
+          "name": "Bathroom",
+          "description": "Bathroom and toiletries",
+          "total_mentioned": 38,
+          "positive": 7,
+          "negative": 27,
+          "neutral": 4
+        }
+      ],
+      "amenities": [
+        "Breakfast ($)",
+        "Wi-Fi ($)",
+        "Parking ($)",
+        "Outdoor pool",
+        "Air conditioning",
+        "Pet-friendly",
+        "Fitness centre",
+        "Bar",
+        "Restaurant",
+        "Room service",
+        "Full-service laundry",
+        "Accessible",
+        "Business centre",
+        "Child-friendly",
+        "Smoke-free property"
+      ],
+      "property_token": "ChkI9LGIkf2QxMU1Gg0vZy8xMWcxcG13OG4xEAE",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-12-05&check_out_date=2024-12-06&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkI9LGIkf2QxMU1Gg0vZy8xMWcxcG13OG4xEAE&q=Spring+TX+Hotels"
+    },
+    {
+      "type": "hotel",
+      "name": "Best Western Plus North Houston Inn & Suites",
+      "description": "Warm quarters in an unassuming hotel offering an outdoor pool, a gym & free breakfast.",
+      "link": "https://www.bestwestern.com/en_US/book/hotel-rooms.44475.html?iata=00171880&ssob=BLBWI0004G&cid=BLBWI0004G:google:gmb:44475",
+      "gps_coordinates": {
+        "latitude": 29.979606699999998,
+        "longitude": -95.42409149999999
+      },
+      "check_in_time": "3:00 PM",
+      "check_out_time": "11:00 AM",
+      "rate_per_night": {
+        "lowest": "$72",
+        "extracted_lowest": 72,
+        "before_taxes_fees": "$61",
+        "extracted_before_taxes_fees": 61
+      },
+      "total_rate": {
+        "lowest": "$72",
+        "extracted_lowest": 72,
+        "before_taxes_fees": "$61",
+        "extracted_before_taxes_fees": 61
+      },
+      "deal": "21% less than usual",
+      "deal_description": "Deal",
+      "nearby_places": [
+        {
+          "name": "National Museum of Funeral History",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "6 min"
+            }
+          ]
+        },
+        {
+          "name": "William P. Hobby Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "39 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 hr 31 min"
+            }
+          ]
+        },
+        {
+          "name": "Cracker Barrel Old Country Store",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "4 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "3-star hotel",
+      "extracted_hotel_class": 3,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMuJCUbE6jtxIQVHkayYgFatJtYhurDJxkdZeJ9=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMuJCUbE6jtxIQVHkayYgFatJtYhurDJxkdZeJ9=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNvTUou4GGPdwM47wFfvXnII-N96s26ZsP2qKl8=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNvTUou4GGPdwM47wFfvXnII-N96s26ZsP2qKl8=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNiyxWUkWl8MtE6Qd9O5RXKn4WsWXWpvsr8BRjx=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNiyxWUkWl8MtE6Qd9O5RXKn4WsWXWpvsr8BRjx=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOF8JTOvppZvlEJkEuuPH97xn17tN30P1LQFerR=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOF8JTOvppZvlEJkEuuPH97xn17tN30P1LQFerR=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP19Yirixc0B8tEeavMk8AlJjMk8giNsUKrq0zz=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP19Yirixc0B8tEeavMk8AlJjMk8giNsUKrq0zz=s10000"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/IrnJCV-IMyySKXwPm0jCFP0Y4OAklVoCDTGsLgdFbc_Rqs-00vMcD9wHhGsth1114AP6FK7c6hq1UIAGZ3zNvHEmEfyVtr3j0GYOn5BshtaA_t3zb_8i2AU0C3sd-fr8TXHulh6g20i6npPGpmXZZskW-RReDw=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KACm9ZQMFAOJXWo_Py5KkbQvQX3n2rIw"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPN-qD4yJyBU0-0scyTEPCmZ1NDh0ijhbBVq24F=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPN-qD4yJyBU0-0scyTEPCmZ1NDh0ijhbBVq24F=s10000"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/pPrA5XITs0eBqchukyI7r6e0x1i6VuQh1WA4aLJM2qgojtMHIqq2tuecjAdK4x5llzo_wfITSE6XOf4d2yJgUd_zlbIToQSGdpP6DUhIyCyXh-AZ_nfk34XeFoPiZ6XyEdEuZED1GumP6scRguGuYCAhZxVElQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAAG9ZQMFAJSXstP49-4RTJTrvTzcwo0"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOrJOy2KiUL2rde9N2KnRSQMtPLEvlGYkoeYT5h=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOrJOy2KiUL2rde9N2KnRSQMtPLEvlGYkoeYT5h=s10000"
+        }
+      ],
+      "overall_rating": 4.1,
+      "reviews": 464,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 251
+        },
+        {
+          "stars": 4,
+          "count": 113
+        },
+        {
+          "stars": 3,
+          "count": 39
+        },
+        {
+          "stars": 2,
+          "count": 14
+        },
+        {
+          "stars": 1,
+          "count": 47
+        }
+      ],
+      "location_rating": 3.7,
+      "reviews_breakdown": [
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 71,
+          "positive": 55,
+          "negative": 9,
+          "neutral": 7
+        },
+        {
+          "name": "Restaurant",
+          "description": "Restaurant",
+          "total_mentioned": 30,
+          "positive": 23,
+          "negative": 4,
+          "neutral": 3
+        },
+        {
+          "name": "Location",
+          "description": "Location",
+          "total_mentioned": 41,
+          "positive": 35,
+          "negative": 3,
+          "neutral": 3
+        },
+        {
+          "name": "Pool",
+          "description": "Pool",
+          "total_mentioned": 16,
+          "positive": 15,
+          "negative": 1,
+          "neutral": 0
+        },
+        {
+          "name": "Hot Tub",
+          "description": "Hot tub",
+          "total_mentioned": 7,
+          "positive": 5,
+          "negative": 1,
+          "neutral": 1
+        },
+        {
+          "name": "Fitness",
+          "description": "Fitness",
+          "total_mentioned": 20,
+          "positive": 17,
+          "negative": 3,
+          "neutral": 0
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Outdoor pool",
+        "Air conditioning",
+        "Fitness centre",
+        "Restaurant",
+        "Golf",
+        "Accessible",
+        "Business centre",
+        "Child-friendly",
+        "Smoke-free property"
+      ],
+      "property_token": "ChcIqMKb4PjYw5B6GgsvZy8xdGQ1M3R0dxAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-12-05&check_out_date=2024-12-06&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChcIqMKb4PjYw5B6GgsvZy8xdGQ1M3R0dxAB&q=Spring+TX+Hotels"
+    },
+    {
+      "type": "hotel",
+      "name": "Fairfield Inn & Suites Houston Humble",
+      "description": "Colorful quarters in a relaxed hotel offering free Wi-Fi & breakfast, plus an indoor pool & a gym.",
+      "link": "https://www.marriott.com/en-us/hotels/houhm-fairfield-inn-and-suites-houston-humble/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+      "gps_coordinates": {
+        "latitude": 30.014946999999996,
+        "longitude": -95.26484599999999
+      },
+      "check_in_time": "3:00 PM",
+      "check_out_time": "12:00 PM",
+      "rate_per_night": {
+        "lowest": "$97",
+        "extracted_lowest": 97,
+        "before_taxes_fees": "$82",
+        "extracted_before_taxes_fees": 82
+      },
+      "total_rate": {
+        "lowest": "$97",
+        "extracted_lowest": 97,
+        "before_taxes_fees": "$82",
+        "extracted_before_taxes_fees": 82
+      },
+      "deal": "17% less than usual",
+      "deal_description": "Deal",
+      "nearby_places": [
+        {
+          "name": "Jesse H. Jones Park & Nature Center",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "9 min"
+            }
+          ]
+        },
+        {
+          "name": "William P. Hobby Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "38 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 hr 42 min"
+            }
+          ]
+        },
+        {
+          "name": "Black Bear Diner Humble",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "5 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "3-star hotel",
+      "extracted_hotel_class": 3,
+      "images": [
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/mTyCDTYF1eIuDp_1V4BtEzCaLohxc9iuRZLlD9Zxory4BQRN9GwrPo1UIYImK9ipryLys8fAcorjx1QeKmzc4bC4y7Usezm1Wwp6YfbGgZv3g7QL9zbKboRwLTLiCldg6GDUdOHozGpqhHwUANn47EvniQePFjU=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/7c/52/cd/fairfield-inn-humble.jpg?w=2100&h=1400&s=1"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/7a_-TOKcJ1zYwP3eP8-r5wBbvS9WNxDL_MkefKDoHr9sKuKg7K84aUgMtUb9R7tDf-dWWIh0DD3v0uzRCITxCfySQE-yYgNzKWKd0S6zy9-ivaBrMsFFyxtMP4JX0ctxTFnhPKWQTQQcXjQNQyz7PkCu0We7bcg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://photos.hotelbeds.com/giata/original/71/713666/713666a_hb_w_002.jpg"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPLyTho8kg-i8Kqu32bANUlTZ30MUue1WVQa7-G=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPLyTho8kg-i8Kqu32bANUlTZ30MUue1WVQa7-G=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPt63b5uUJl95vcIz_4vywVF7hmVJk_ZAzLZKR5=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPt63b5uUJl95vcIz_4vywVF7hmVJk_ZAzLZKR5=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/SBBIAl2ikamewekf_JxC11_ZgMzs0cynMuM-0JJBMAoaTEI0SfWr00WpH8UXtyLshxEwdkH45jOmwwsgkWgAoOibEo3IeZGzftW_EakMMTmDNg6sAtYFWdwIBT4PMaKAunkwFcwcN44WkgmVjdq-o7-0H7cK9w=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/56/1e/e0/breakfast-dining-area.jpg?w=2100&h=1400&s=1"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNtam2PFbe16sjbjuYK18a9wWOKOqu_JLa8Q_9_=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNtam2PFbe16sjbjuYK18a9wWOKOqu_JLa8Q_9_=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPF7iQq6oahdAhS0rrstBuHtm6pz92aLK5xTKjA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPF7iQq6oahdAhS0rrstBuHtm6pz92aLK5xTKjA=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOxy378EPtx1j_E0spn_JjElAykf3BKJw3b3ZB6=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOxy378EPtx1j_E0spn_JjElAykf3BKJw3b3ZB6=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNzuwuHJrrPmW1Ceb7C4lXlDJi9mASdpiSftcS7=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNzuwuHJrrPmW1Ceb7C4lXlDJi9mASdpiSftcS7=s10000"
+        }
+      ],
+      "overall_rating": 4.1,
+      "reviews": 376,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 200
+        },
+        {
+          "stars": 4,
+          "count": 89
+        },
+        {
+          "stars": 3,
+          "count": 36
+        },
+        {
+          "stars": 2,
+          "count": 18
+        },
+        {
+          "stars": 1,
+          "count": 33
+        }
+      ],
+      "location_rating": 3.8,
+      "reviews_breakdown": [
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 111,
+          "positive": 86,
+          "negative": 20,
+          "neutral": 5
+        },
+        {
+          "name": "Fitness",
+          "description": "Fitness",
+          "total_mentioned": 23,
+          "positive": 13,
+          "negative": 8,
+          "neutral": 2
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 50,
+          "positive": 39,
+          "negative": 10,
+          "neutral": 1
+        },
+        {
+          "name": "Cleanliness",
+          "description": "Cleanliness",
+          "total_mentioned": 67,
+          "positive": 48,
+          "negative": 15,
+          "neutral": 4
+        },
+        {
+          "name": "Property",
+          "description": "Property",
+          "total_mentioned": 89,
+          "positive": 58,
+          "negative": 26,
+          "neutral": 5
+        },
+        {
+          "name": "Restaurant",
+          "description": "Restaurant",
+          "total_mentioned": 22,
+          "positive": 16,
+          "negative": 6,
+          "neutral": 0
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Air conditioning",
+        "Fitness centre",
+        "Bar",
+        "Restaurant",
+        "Accessible",
+        "Business centre",
+        "Child-friendly",
+        "Smoke-free property"
+      ],
+      "property_token": "ChcI8-mp9MHFsoQjGgsvZy8xdGpnX3JkaxAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-12-05&check_out_date=2024-12-06&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChcI8-mp9MHFsoQjGgsvZy8xdGpnX3JkaxAB&q=Spring+TX+Hotels"
+    },
+    {
+      "type": "hotel",
+      "name": "Country Inn & Suites by Radisson, Houston Intercontinental Airport East, TX",
+      "description": "Informal hotel offering an exercise room & an indoor pool, plus free breakfast, parking & Wi-Fi.",
+      "link": "https://www.choicehotels.com/texas/humble/country-inn-suites-hotels/txq24?mc=llgoxxpx",
+      "gps_coordinates": {
+        "latitude": 30.015524900000003,
+        "longitude": -95.2645824
+      },
+      "check_in_time": "3:00 PM",
+      "check_out_time": "12:00 PM",
+      "rate_per_night": {
+        "lowest": "$87",
+        "extracted_lowest": 87,
+        "before_taxes_fees": "$73",
+        "extracted_before_taxes_fees": 73
+      },
+      "total_rate": {
+        "lowest": "$87",
+        "extracted_lowest": 87,
+        "before_taxes_fees": "$73",
+        "extracted_before_taxes_fees": 73
+      },
+      "nearby_places": [
+        {
+          "name": "Jesse H. Jones Park & Nature Center",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "9 min"
+            }
+          ]
+        },
+        {
+          "name": "William P. Hobby Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "38 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 hr 41 min"
+            }
+          ]
+        },
+        {
+          "name": "Dolphin Restaurant & Bar",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "6 min"
+            }
+          ]
+        }
+      ],
+      "hotel_class": "3-star hotel",
+      "extracted_hotel_class": 3,
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM3IROy05QpPOldr_VbU5XxmdUl0_sW01PXgdMt=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipM3IROy05QpPOldr_VbU5XxmdUl0_sW01PXgdMt=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipP_GGE9V7lCWUP6SZNCbzGMd70GCDEBc-mOg6T8=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipP_GGE9V7lCWUP6SZNCbzGMd70GCDEBc-mOg6T8=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPVHClN-WkVC86Yj6msWoeYVuFE7WgkB3cL2cgv=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPVHClN-WkVC86Yj6msWoeYVuFE7WgkB3cL2cgv=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/pXg0W4tdBGg_USPtgjNzjAZFGPmwHqR5PNjLovK9Rk1Ye_89sztIdgn7shl1EmVU3vTL1amH8xIutpfDN6B0RyqN48Y8RgCbxSwI5-F8rRJ7RkEro-CSs-4qjHqc1pVvQLYrUgRvc_LUz1qzAYyTKIO3gPqWhg4=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAHvt1AYFAHgiPKf_3yHLKns2J08IU4Q"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipONonwKlscviFobmeCJZt7QJw9ruVi7mtRFLnR1=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipONonwKlscviFobmeCJZt7QJw9ruVi7mtRFLnR1=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMgxb91kQNqDPLorCkBK6X8vsFLoarMfkLvwIBR=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipMgxb91kQNqDPLorCkBK6X8vsFLoarMfkLvwIBR=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipPDScaIlHCqIdGAdLoyE59sR_4ds4zlCRFbQjsG=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipPDScaIlHCqIdGAdLoyE59sR_4ds4zlCRFbQjsG=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNb_gSjlYPnnx7hyWf9NnQiZETU5PdHwvKovzvY=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipNb_gSjlYPnnx7hyWf9NnQiZETU5PdHwvKovzvY=s10000"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipOvd-I7Mptc36bpn6xFaEQTKgjpcDBCt_hDh-QC=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://lh5.googleusercontent.com/p/AF1QipOvd-I7Mptc36bpn6xFaEQTKgjpcDBCt_hDh-QC=s10000"
+        }
+      ],
+      "overall_rating": 3.9,
+      "reviews": 635,
+      "ratings": [
+        {
+          "stars": 5,
+          "count": 314
+        },
+        {
+          "stars": 4,
+          "count": 133
+        },
+        {
+          "stars": 3,
+          "count": 60
+        },
+        {
+          "stars": 2,
+          "count": 42
+        },
+        {
+          "stars": 1,
+          "count": 86
+        }
+      ],
+      "location_rating": 3.9,
+      "reviews_breakdown": [
+        {
+          "name": "Fitness",
+          "description": "Fitness",
+          "total_mentioned": 73,
+          "positive": 36,
+          "negative": 30,
+          "neutral": 7
+        },
+        {
+          "name": "Service",
+          "description": "Service",
+          "total_mentioned": 212,
+          "positive": 151,
+          "negative": 49,
+          "neutral": 12
+        },
+        {
+          "name": "Breakfast",
+          "description": "Breakfast",
+          "total_mentioned": 96,
+          "positive": 62,
+          "negative": 21,
+          "neutral": 13
+        },
+        {
+          "name": "Hot Tub",
+          "description": "Hot tub",
+          "total_mentioned": 18,
+          "positive": 6,
+          "negative": 10,
+          "neutral": 2
+        },
+        {
+          "name": "Pool",
+          "description": "Pool",
+          "total_mentioned": 41,
+          "positive": 28,
+          "negative": 10,
+          "neutral": 3
+        },
+        {
+          "name": "Bathroom",
+          "description": "Bathroom and toiletries",
+          "total_mentioned": 68,
+          "positive": 10,
+          "negative": 49,
+          "neutral": 9
+        }
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Free Wi-Fi",
+        "Free parking",
+        "Pools",
+        "Hot tub",
+        "Air conditioning",
+        "Fitness centre",
+        "Restaurant",
+        "Airport shuttle",
+        "Accessible",
+        "Business centre",
+        "Child-friendly",
+        "Smoke-free property"
+      ],
+      "property_token": "ChcI0fi4uPz86OUQGgsvZy8xdGRmdGo3YhAB",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-12-05&check_out_date=2024-12-06&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChcI0fi4uPz86OUQGgsvZy8xdGRmdGo3YhAB&q=Spring+TX+Hotels"
+    },
+    {
+      "type": "vacation rental",
+      "name": "Holiday Inn Express Suites Houston North - Woodlands Area",
+      "link": "https://www.bluepillow.com/search?p_id=589dfd8e7c00cb10c8dacfc3&dest=ago&cat=Vacation rental (other)&accomodationids=618288719e3163a56a24f1b9",
+      "gps_coordinates": {
+        "latitude": 30.12428092956543,
+        "longitude": -95.44123077392578
+      },
+      "rate_per_night": {
+        "lowest": "$123",
+        "extracted_lowest": 123,
+        "before_taxes_fees": "$123",
+        "extracted_before_taxes_fees": 123
+      },
+      "total_rate": {
+        "lowest": "$123",
+        "extracted_lowest": 123,
+        "before_taxes_fees": "$123",
+        "extracted_before_taxes_fees": 123
+      },
+      "prices": [
+        {
+          "source": "Bluepillow.com",
+          "logo": "https://www.gstatic.com/travel-hotels/branding/190ff319-d0fd-4c45-bfc8-bad6f5f395f2.png",
+          "num_guests": 3,
+          "rate_per_night": {
+            "lowest": "$123",
+            "extracted_lowest": 123
+          }
+        }
+      ],
+      "nearby_places": [
+        {
+          "name": "William P. Hobby Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "49 min"
+            },
+            {
+              "type": "Public transport",
+              "duration": "1 hr 53 min"
+            }
+          ]
+        },
+        {
+          "name": "Exit 73 Bar & Grill",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "6 min"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/YypOaTI70CIxbumVbu0Sp_xYo0E6hzwg-jlQ7WcbIRR70f1nINUwLUW5bL0f0wTU_3-sC48TLNlKi5Or35VR6F5YKxPoc7WOFY7tVEy7tc4YBO1OFxlFfb12J5LVlx9ikQsMAudqEkVJ1woJun4-21ZL2XOkCA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://pix8.agoda.net/hotelImages/11081516/199829209/e60d8035a8d69193e02fb1ccd009a079.jpg?ca=12&ce=1&s=1024x"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/ITycULr9Uqx7Tif1AYtPBXr9BqB_ExrBx2UxF7cCYLVn8tzhfSTAfmmRMCHpnj0G8J4EOMYnkuKcQNBIJ7hpLCrM50q4s7m17vupt2u-mGHCZp4YbpSOeNOYSvYNnBJ3jDfW2sV_vR0gclxnAyIsMQTj-ggOmV4=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1024/275015667.jpg?k=6b05dadefa0b5839357dca55102113fc10df6ecabcbd7971bec45e126e556846&o=&s=1024x"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/RDEHJAcfPV98JPNUl9AKiQEEQaIvoQIrL_FOMzslFGSO33AdHU9aJPDi2qmExXb9jOPAyNluEsG5Rvo52zYkZL1EtH14DopoQJz5OaAWgQ2kR6ARsttSAb_8sZFs2rkgAPh-ZVyLuaJwIiW7lDSAL1_cLQPm7Q=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://pix8.agoda.net/hotelImages/11081516/0/e71fdfeb07f0c38800169aaf3d5efd4b.jpg?ca=23&ce=0&s=1024x"
+        },
+        {
+          "thumbnail": "https://lh4.googleusercontent.com/proxy/yi06iQ4QjKj-sHsKoJqc3GDgWguk2Mc5UX5QqAExQcv_KNVV2w_yaW_r-0XXohl8D_kCBtV8GBD8Nq-OqaYnk4UkXJJZojFDviiqK1Ou5ej1lHjxqsMizsvqxLXdL_Km9QEsyfM2z3lrJiSkxA9DQERVCkMYnUk=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1024/262373913.jpg?k=7775eba8e04bc4e899d9ad1bd391638c3e7f0dc960254b0d6711e484c0fc2d05&o=&s=1024x"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/u_BJUlG-S8HQM4WsxszeT140Qz1jAHDJtSi2DPT1KXP8B1aSKsV2JtdZWwTLFXK0iBaSyh4sthQsIglXH9TifBBwqaHtBuqIys6xhN0BvE_Y5OVwxdOpnOhzHy-zeWQEgYHYMaor84RlXSlzGiq2Ue9c-ZKyZj8=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1024/524463691.jpg?k=9c0e7116dd72616af44a14eeb1acd872c18621733ee00f42a6d52c7e48d9b165&o=&s=1024x"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/Ur6Z4s4fAdlxSH-w8Bm5marRJZiN5S5eHvX-jFbdv_fNCZB3290ZfKlTBnRGnVMACABAOL3tUx6abvA5QJgyjSmHTIVGzPNMb6UWb6ehEhGs1N7zOhXNDWXKedgDUlcHbzqAa7d-VXG-4rrSSavI6iybvK-jeAQ=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1024/262373827.jpg?k=d0cbfb3ec227cc6551c2c5bfcdb2d2fdf3467f752dd8e265398d2a2c1d459064&o=&s=1024x"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/MEOfKRZWiVOtZnokPW0dMD-TApvDINoGoLk_nAMHUKQQvzDmh2rmdkznRUldGZfi5u0hzH-NRvFuvmjNiEhmB4ZVm8Yw1tN-qjOhGeORo2ywvxn5nZipwyrmteZuyjFi92glScMFyPzpuvmSFx491mY-0ANcmF8=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1024/262373838.jpg?k=2127184be167c89f7ec5406d56a88c99cfa21f9430562af8624aab0d32b1937b&o=&s=1024x"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/fYhV-9yd6Ph7nDhtCzByqeJITu4dxyzNXRrZzRygCdV-PV0CkQYRSH9ODARgHfDyLqXCUlSapKYl2zDapV7X22XqOPOiqJsudnk3k2MEOP_uImg54HXmLn_RoPapjZb1Tl4NLGdQ-lG9szKW2-3RHTw-EYc42Q=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1024/275015657.jpg?k=eb4aa7eb8148c06136e44130d46a5c3edc881b506de973e2856d9e72b2640ea5&o=&s=1024x"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/6vaRL5aYTBsAq2FlLFTpt7yds95sm1AxDaKUll_wXuUVo6g8VKZko2uKouMkRFfzw3GvuCgagxiNmWaNPRNuzCm8KQjPpaqx9e5-6plSZoelKjUbLtMsKwX72ESTVbbh3y7YCstrpKjZrECbOQtuRJ4IA9GaPA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1024/275015629.jpg?k=abb1fc4a1ddcb240a854f41260ac3cff2ab5cde822eef7c2631e42c448cb8a51&o=&s=1024x"
+        }
+      ],
+      "overall_rating": 4.1,
+      "reviews": 5,
+      "location_rating": 3.9,
+      "amenities": [
+        "Air conditioning",
+        "Kid-friendly",
+        "Elevator",
+        "Fireplace",
+        "Ironing board",
+        "Kitchen",
+        "Outdoor pool",
+        "Smoke-free",
+        "Cable TV",
+        "Washer",
+        "Wheelchair accessible",
+        "Free parking",
+        "Free Wi-Fi"
+      ],
+      "excluded_amenities": [
+        "No airport shuttle",
+        "No balcony",
+        "No beach access",
+        "No crib",
+        "No fitness center",
+        "No heating",
+        "No hot tub",
+        "No indoor pool",
+        "No microwave",
+        "No outdoor grill",
+        "No oven stove",
+        "Not pet-friendly"
+      ],
+      "essential_info": ["Sleeps 2", "1 bedroom", "1 bathroom", "1 bed"],
+      "property_token": "ChoQmIS86YfVuZPMARoNL2cvMTF5M3pfaDA5dxAC",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-12-05&check_out_date=2024-12-06&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChoQmIS86YfVuZPMARoNL2cvMTF5M3pfaDA5dxAC&q=Spring+TX+Hotels"
+    },
+    {
+      "type": "vacation rental",
+      "name": "Pool|Front Yard|Fireplace|King|BBQ|1,116 sq ft",
+      "link": "https://www.lcphousing.com/listings/232757?googleVR=1",
+      "gps_coordinates": {
+        "latitude": 30.120229721069336,
+        "longitude": -95.43202209472656
+      },
+      "check_in_time": "3:00 PM",
+      "check_out_time": "10:00 AM",
+      "rate_per_night": {
+        "lowest": "$240",
+        "extracted_lowest": 240,
+        "before_taxes_fees": "$139",
+        "extracted_before_taxes_fees": 139
+      },
+      "total_rate": {
+        "lowest": "$240",
+        "extracted_lowest": 240,
+        "before_taxes_fees": "$139",
+        "extracted_before_taxes_fees": 139
+      },
+      "prices": [
+        {
+          "source": "Hostaway",
+          "logo": "https://www.gstatic.com/travel-hotels/branding/16926227711156163724.png",
+          "official": true,
+          "num_guests": 2,
+          "rate_per_night": {
+            "lowest": "$240",
+            "extracted_lowest": 240,
+            "before_taxes_fees": "$139",
+            "extracted_before_taxes_fees": 139
+          }
+        }
+      ],
+      "nearby_places": [
+        {
+          "name": "William P. Hobby Airport",
+          "transportations": [
+            {
+              "type": "Taxi",
+              "duration": "55 min"
+            }
+          ]
+        },
+        {
+          "name": "Crudo",
+          "transportations": [
+            {
+              "type": "Walking",
+              "duration": "10 min"
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/aJq4eBbsNkrbhBMn0csoFPFJma1JHwp584bwrbylvEwZGZW2qf6sQYv8vyTT4_HhHW1EmQUqX8wfZlPwFkrfobLyZ-8GpEhOHxDVJtC-Z8P8BKhFSPOybmfNyCYjN3ecQrQlQVw0rSH6SUGdj1g7sf83xWAkxZc=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1440x1080/506719448.jpg?k=14860ddd1a4ba167a37477cf85979069e9ad4872a135880d08da76c582d3f3e5&o="
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/bh7VRmMlUXd3SKkeC_gi9vNNmvq9DMlckqzthos3eQnFf9VRsndcjBBpUAvNf9I1jP5BW5WvrDN1ZL_TCV0WVUexgL_XdNs57nJ6CLDOD0uQzrQLasQBkkyB7PF7GE0Ukt2KzChiN6UTIoIJ1CJd9kLqXRKrSkg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/61563-232757-ikpOyEmPDJpT5IuIlHOFI7EVM--no6TDor1V5wMRCg3E-65a6de2f4fe11-medium"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/x9SSnKwJaedmZef6TXcpZjPYWYEicuIfJ-aJi0qa8m2359qkVn_s_urRrOlH9W9h7WWrMx6Preo6I79kfMHzZfhLb_PQIogYkeUtktpOT4FMvOn_Qz4SUsNUKLBASuhQfaNZ5OHXAoZ3SR8J9pDL7pEgrxgBPmY=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://media.vrbo.com/lodging/96000000/95260000/95253900/95253812/w1280h852x0y1-725bd126.jpg"
+        },
+        {
+          "thumbnail": "https://lh6.googleusercontent.com/proxy/k0ZI68E8wkqph9s_wZqe9nh4ikqAHhS7CW4rbZiKlxYBxNHv46vAhoeYcbEluv0m78Ij_M3logCIv1kHDJzQLMOMpl7NLio3tYmuvcnJjbEtXrAkUo-CPr22TyI3UU7-rsWJKMnK24q6HdPGdtsqmjxEB7VqDJA=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1440x1080/506719522.jpg?k=6ca8be2284d5e329b98e86dde1f50f236cb264159f0dbe10b44e087f6e34b029&o="
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/YKGEVV79AvE_uuJ9zCwNFw-lIe0i2JyB7wMabGc7owFoQDGvISH6W1wRQHdYZTTZdy8YnXygMFzGBux_D5oB-adxhdAVurJrKcRup_5NP2Sh-mLK0HqNWoZ2rMaD7ed_fOtVEw9JrqpDSDaXVqbQMHu1pWEDukE=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1440x1080/506719488.jpg?k=79791cd48ad8cc490615a9032f02a71c8d219ec15d49d3fc592815c65a184b12&o="
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/hHlj6KYI7VzYfGzia-JM2t_5AJrzjMvXOF_dR4vkGl91CijTPZLSTTiwrpMFhbvvgl1ce2QttVHAHjwxV7x55_E2WtpWnKCUK-5m9JvqG6lyGe0eL8lJ9m5fwqkn5PiRrG6G6fTSt8b-XPDrJXXhv4ZNI3qWTg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/61563-232757-vNuw1fDfGkw41UKwDrGnI54arx0nkRcGdtsGcVEf--9I-65a6f33592bd1-medium"
+        },
+        {
+          "thumbnail": "https://lh5.googleusercontent.com/proxy/pGfaN25KOC6LqoMuu_zTVoMPweBy97BTB2-V2H9UkDUSsbBziZqzQxN3FrSc7A-tyPgsBWXPMGIinhTchsWooNAmm2pLPmjDWWuSxyIJHRUo7VoKj1eBl-Q8fpc9E2avIaLwthJ9xui1WGyvjEdINRUK8JKzN7g=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://xx.bstatic.com/xdata/w/hotel/840x460_watermarked_standard/UlZBBopCc2ozhYjYhgXgaOmvsJCfHbRRH09J9Zo67IIAhj3NiCT79n2ykOKM5ppfl7uyldJ4_1opjobojsAUdFs-hNyv6jfJFBic-BaZLNWv_1lZLDYe-Q==.jpg"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/QCJ5joVLXlZZDKuMQ6-UVKPzoAWbbzhTKwD8pMoVCsG3LgGo6mQaCCaBLvk1YbVujQHebKwx-BJt9F-LUzEccyHtKVy5PESwSzGFbhZZ5923xGOZu0vzfriRj1VY2TroYuYqTWaJi3zUpDaTVTaNemu-qar8FfY=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/61563-232757-tTafc5OeQrICL0lsfyX0hK8nuACuwIgCMFtpIQULJJE-65a6d8de25e70-medium"
+        },
+        {
+          "thumbnail": "https://lh3.googleusercontent.com/proxy/ba_DTKjP5o2XWgOcLgxCnvmErN7sYpVBpXT2sHK8vqezP3TVRYdf9cRQdoLF6tbJB-LipmpHrOWx6eZetXOdIV5682FGlkYlgx4w7ovG6UbvBiLZIE9R2ijuNBuZP8rWk40BBatZ5nRpNuYkJ21aboBpnyAneg=s287-w287-h192-n-k-no-v1",
+          "original_image": "https://p.fih.io/v2/nSr0o-3gbZN8o1xMecXCcG-BkDeQVo3k-wOeVogkTe7ajuFOX7O-WA8aRWhXz1jsToZif_TsA_xCWfhWRa0ZjKW-tgZswkEgMxyFZ85k8zfGj2PPAqybtgj-FtXDrb_mLAocxuztCgvIAzF4en3ketkYyx1j1dLbUfhlOgkNcIcn9PwNtk_AU2csbUk6dd9sGo49Qn31qiMVOoIxofR_2o8VcZA3AAhCPReYBoJ8vY2Gq2593GaA4qMNT9Db2nQda_hJpgMw3JmtqItHLkiogoG64bjUYXZI9f9Ay66ba3Y5FwNVEzeLAL89a-E9RTJtoxJcTVlIXS6kR2Yt_mLL5JrUSDQkPROJbc-9OGaOA_vLLq2xDxd0dU9fUF1bRD0duts"
+        }
+      ],
+      "overall_rating": 4.567442,
+      "reviews": 43,
+      "location_rating": 3.4,
+      "amenities": [
+        "Air conditioning",
+        "Balcony",
+        "Kid-friendly",
+        "Fireplace",
+        "Fitness center",
+        "Heating",
+        "Indoor pool",
+        "Ironing board",
+        "Kitchen",
+        "Microwave",
+        "Outdoor grill",
+        "Outdoor pool",
+        "Oven stove",
+        "Pet-friendly",
+        "Smoke-free",
+        "Cable TV",
+        "Washer",
+        "Free parking"
+      ],
+      "excluded_amenities": [
+        "No airport shuttle",
+        "No beach access",
+        "No crib",
+        "No elevator",
+        "No hot tub",
+        "No patio",
+        "Not wheelchair accessible",
+        "No Wi-Fi"
+      ],
+      "essential_info": [
+        "Entire apartment",
+        "Sleeps 5",
+        "2 bedrooms",
+        "2 bathrooms",
+        "2 beds",
+        "10,764 sq ft"
+      ],
+      "property_token": "ChkQ-dPl2f3vsrF6Gg0vZy8xMXkydzQzMjZqEAI",
+      "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2024-12-05&check_out_date=2024-12-06&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkQ-dPl2f3vsrF6Gg0vZy8xMXkydzQzMjZqEAI&q=Spring+TX+Hotels"
+    }
+  ],
+  "serpapi_pagination": {
+    "current_from": 1,
+    "current_to": 20,
+    "next_page_token": "CBI=",
+    "next": "https://serpapi.com/search.json?adults=2&check_in_date=2024-12-05&check_out_date=2024-12-06&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&next_page_token=CBI%3D&q=Spring+TX+Hotels"
+  }
+}

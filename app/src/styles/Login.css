@@ -1,0 +1,76 @@
+.login-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw; 
+  background-image: url('../assets/images/city-background.jpg'); /* Path to your image */
+  background-size: cover;
+  background-position: center; 
+  background-repeat: no-repeat; 
+}
+
+.login-form {
+  background: rgba(255, 255, 255, 0.6); /* Semi-transparent background */
+  box-shadow: 0 4px 6px rgba(3, 41, 108, 0.1);
+  width: 700px;
+  height: 600px;
+  text-align: center;
+}
+
+
+.login-form h1 {
+  font-family: 'Modern-Bold';
+  font-size: 4rem;
+  margin-bottom: 20px; 
+  font-style: italic;
+  color: #0070AD;
+}
+
+.form-inputs{
+  display: flex;
+  flex-direction: column;
+  width: 550px;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+#form-label{
+  font-size: 1.8rem;
+}
+
+#password, #username{
+  border-radius: 20px;
+  font-size: 1rem;
+}
+
+
+.login-form button {
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 30px;
+  padding: 10px;
+  font-size: 1.5rem;
+  background-color: #0070AD;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: 0.3s ease;
+  font-family: 'Modern-Bold';
+  border: 1px solid transparent;
+  margin-bottom: 10px;
+}
+
+.login-form button:hover {
+  border: 1px solid #003f61;
+  background-color: #4f9ec9;
+}
+
+.form-links{
+  font-style: bolder;
+  margin: 5px 0;
+  justify-content: center;
+  font-size: 1.5rem;
+  line-height: 1.2;
+}

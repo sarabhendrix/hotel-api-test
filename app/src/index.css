@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Modern';
+    src: url('./assets/fonts/Modern.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Modern-Bold';
+    src: url('./assets/fonts/Modern-Bold.otf') format('opentype');
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Modern';
+    background-color: #016ca63a;
+}
+

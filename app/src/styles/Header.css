@@ -1,0 +1,52 @@
+.header{
+  display: flex;             
+  justify-content: space-between;  
+  position: relative;    
+  color: black;
+  border-bottom: 1px solid black;
+  padding-left: 20px;
+  font-size: 1.5rem;
+  font-family: 'Modern-Bold';
+}
+
+.header div:last-child {
+  position: absolute;             /* Position "Saved Listings" */
+  top: 80px;                      /* Position it below the logout and profile */
+  right: 50px;          
+}
+
+h1 a{
+  text-decoration: none;
+  color: black;
+}
+
+.logout-button {     
+  background-color: rgb(232, 230, 230);        
+  border: none;                
+  border-radius: 5px;         
+  cursor: pointer;           
+  font-family: inherit;
+  font-size:large;
+  padding: 5px 15px;
+  border: 1px solid transparent;
+}
+
+.logout-button:hover {
+   border: 1px solid black;
+}
+
+#profile-icon {
+  padding-inline: 30px;
+  width: 50px;
+  transform: translateY(40%);
+  cursor: pointer;
+}
+
+.saved-listings-button {
+  background-color: rgb(232, 230, 230);       /* Same styling as Logout button */
+  border: none;
+  padding: 8px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size:.8rem;
+}

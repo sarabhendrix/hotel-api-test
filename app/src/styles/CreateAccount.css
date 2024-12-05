@@ -1,0 +1,98 @@
+.create-acct-page {
+  height: 100vh;
+  width: 100vw; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(#267284, #93B0C1, #DDDBE0);
+}
+
+.create-acct-container {
+  display: flex;
+  width: 90%;
+  height: 90%; 
+  background-color: rgba(255, 255, 255, 0.679);
+  border-radius: 10px;
+  /* overflow: hidden; */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.create-acct-image {
+  flex: 1.5; 
+}
+
+.create-acct-form{
+  flex: 2.5;
+}
+
+.create-acct-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; 
+}
+
+.create-acct-form form {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  padding-inline: 30px;
+}
+
+.create-acct-form div {
+  width: 100%;
+  text-align: center; 
+}
+
+.create-acct-form h1 {
+  font-family: 'Modern-Bold';
+  font-size: 2.2rem;
+  text-align: center;
+}
+
+.form-inputs{
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+.form-group {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 50px;
+  gap: 20px;
+}
+
+.form-group label {
+  font-size: 1.6rem;
+  white-space: nowrap; 
+}
+
+.form-group input {
+  flex-grow: 0;
+  width: 100%;
+  padding: 10px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+}
+
+.submit-button {
+  width: 80%;
+  padding: 10px;
+  font-size: 1.5rem;
+  background-color: #a2a1a1;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: 0.3s ease;
+  font-family: 'Modern-Bold';
+  border: 1px solid transparent;
+}
+
+.submit-button:hover {
+  border: 1px solid black;
+  background-color: #b5b4b4;
+}
+
